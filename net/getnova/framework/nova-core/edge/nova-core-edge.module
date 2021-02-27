@@ -1,0 +1,99 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework",
+    "module": "nova-core",
+    "version": "edge",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.2",
+      "buildId": "se6dvmmnrbhr7feo67s7qq54ha"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter",
+          "version": {
+            "requires": "2.4.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-core-edge.jar",
+          "url": "nova-core-edge.jar",
+          "size": 1923,
+          "sha512": "7a5fe64092ff31623766bf4f51984b8db89e1fa762223828b1387e58bebf8ee95bd0a835ed5fca9bb9f402fa00e67da97c98c8bcaa41221c6151d234e001dbc3",
+          "sha256": "f817d264fbe3cc5897f3cd8472452022a206b3c7408bed91f62f7d05476be9a5",
+          "sha1": "0133f0680edebba6d243fcfd5e4b4713c97a4972",
+          "md5": "77c10c00a637de0b676dfab4edb0b13a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter",
+          "version": {
+            "requires": "2.4.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-core-edge.jar",
+          "url": "nova-core-edge.jar",
+          "size": 1923,
+          "sha512": "7a5fe64092ff31623766bf4f51984b8db89e1fa762223828b1387e58bebf8ee95bd0a835ed5fca9bb9f402fa00e67da97c98c8bcaa41221c6151d234e001dbc3",
+          "sha256": "f817d264fbe3cc5897f3cd8472452022a206b3c7408bed91f62f7d05476be9a5",
+          "sha1": "0133f0680edebba6d243fcfd5e4b4713c97a4972",
+          "md5": "77c10c00a637de0b676dfab4edb0b13a"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-core-edge-javadoc.jar",
+          "url": "nova-core-edge-javadoc.jar",
+          "size": 107307,
+          "sha512": "f6b48f2a68d41cc64646b5c816cb2b774314134c06c7e34e8f8bea3c5257788dadeb55307e928a28204b358ced64beb0c7bf6770fde1b54708f6fa5550dfce7c",
+          "sha256": "42474984521f5ded52bcd3b697e693c1f356491646703e784eaffa2d54d83bb9",
+          "sha1": "b559cded0230cb216d85c23820a8c4d86be6f21f",
+          "md5": "d3d1f781a537f3f703e8135fae718a10"
+        }
+      ]
+    }
+  ]
+}

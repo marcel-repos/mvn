@@ -1,0 +1,127 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework",
+    "module": "nova-data-jpa",
+    "version": "edge",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.2",
+      "buildId": "se6dvmmnrbhr7feo67s7qq54ha"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-json",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "jakarta.persistence",
+          "module": "jakarta.persistence-api",
+          "version": {
+            "requires": "2.2.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-data-jpa-edge.jar",
+          "url": "nova-data-jpa-edge.jar",
+          "size": 3904,
+          "sha512": "ca9fc9265cd989ae4d2cee23c1b18f438ccdbfaca51eb38eb56caf5871652f232e150b49228ca8c29f3d54cdfa1954c7df54b816ea3e95c56096081b787fb095",
+          "sha256": "84ea52674bc47fe837109ce0ed687c25d042e3fdb6070f687a46bdf1c27f2d25",
+          "sha1": "eaf8039e88839db6e39648b0a4d42e83a4fda269",
+          "md5": "c589080eb8700ac14d15a6b290601478"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-json",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "jakarta.persistence",
+          "module": "jakarta.persistence-api",
+          "version": {
+            "requires": "2.2.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-data-jpa-edge.jar",
+          "url": "nova-data-jpa-edge.jar",
+          "size": 3904,
+          "sha512": "ca9fc9265cd989ae4d2cee23c1b18f438ccdbfaca51eb38eb56caf5871652f232e150b49228ca8c29f3d54cdfa1954c7df54b816ea3e95c56096081b787fb095",
+          "sha256": "84ea52674bc47fe837109ce0ed687c25d042e3fdb6070f687a46bdf1c27f2d25",
+          "sha1": "eaf8039e88839db6e39648b0a4d42e83a4fda269",
+          "md5": "c589080eb8700ac14d15a6b290601478"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-data-jpa-edge-javadoc.jar",
+          "url": "nova-data-jpa-edge-javadoc.jar",
+          "size": 113489,
+          "sha512": "72c3ad90db56657974b8bc9b3dc58ccc90f61db8c6617f61be23302678a45464203b787cf080430cafd1ccfc75c745015e8edd8e3e831d0c75e589c5b94647bc",
+          "sha256": "cfeded2cf976b5fef8186ac848c9cf46e10c6cbccc6cc75a617b032fd2b5e4b6",
+          "sha1": "3ede73ab291898bacf8c66eb1c930ae127726eaf",
+          "md5": "1c40d588fb3a41b0ba948dde53cb0f28"
+        }
+      ]
+    }
+  ]
+}

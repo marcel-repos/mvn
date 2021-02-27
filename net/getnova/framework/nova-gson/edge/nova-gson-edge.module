@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework",
+    "module": "nova-gson",
+    "version": "edge",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.2",
+      "buildId": "se6dvmmnrbhr7feo67s7qq54ha"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-gson-edge.jar",
+          "url": "nova-gson-edge.jar",
+          "size": 12331,
+          "sha512": "6120e222c109515e4e0709404d25674fac8b945b18e5c09c782bf1c29b9cffa054fc67a8a84b547ac150b465161d1c0fa4b014efd509fbffb377d2cf9b9e4efc",
+          "sha256": "21eb32e03d65394afa485a5169b56429197449f24fa324ee5a04293f9f440721",
+          "sha1": "2ba85dd72a64ca555905ceea05e3477853115940",
+          "md5": "227378c53b26c5ca547d494d14e365d4"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-gson-edge.jar",
+          "url": "nova-gson-edge.jar",
+          "size": 12331,
+          "sha512": "6120e222c109515e4e0709404d25674fac8b945b18e5c09c782bf1c29b9cffa054fc67a8a84b547ac150b465161d1c0fa4b014efd509fbffb377d2cf9b9e4efc",
+          "sha256": "21eb32e03d65394afa485a5169b56429197449f24fa324ee5a04293f9f440721",
+          "sha1": "2ba85dd72a64ca555905ceea05e3477853115940",
+          "md5": "227378c53b26c5ca547d494d14e365d4"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-gson-edge-javadoc.jar",
+          "url": "nova-gson-edge-javadoc.jar",
+          "size": 136980,
+          "sha512": "9e9064a800da70c835dde8bffb30e8f624a147baa7b3d1f7291144a9beb89080f2c10e76f2dcc015986e60b96fea2623cdcfe56351e1c63681c3c6674209ba43",
+          "sha256": "89de7105fabac618f1c42b564c655c9031a5053303ac03f20d20eafad07b782d",
+          "sha1": "df21528b4dc0d7f89e5f5a2d7a7e411f24b84cf2",
+          "md5": "c27431604f686b969ded3af3bb2f5153"
+        }
+      ]
+    }
+  ]
+}
