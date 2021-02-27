@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.2",
-      "buildId": "se6dvmmnrbhr7feo67s7qq54ha"
+      "buildId": "bwx6gknlz5bhrf2gfsmmar4kzq"
     }
   },
   "variants": [
@@ -20,7 +20,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 15,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -44,11 +44,11 @@
         {
           "name": "nova-network-edge.jar",
           "url": "nova-network-edge.jar",
-          "size": 35493,
-          "sha512": "c5dcd6b7664a3d141fd4aa43b4bce1b61395325513e7c20e53dc2948bfd9961c5865e95f9cab2000522211a2b279fa24b59987ebbdaf8671a3a1d29cfcb0cc7b",
-          "sha256": "1b7e7db04fd95f3d148b5f4cefde6d6917a78df5a160c9eab5fb0b57746a079c",
-          "sha1": "6994b8c7e09fff9aaf1e6aa2a04d266da5514db6",
-          "md5": "e0c5eb11c450271ebabcf500d558fee9"
+          "size": 35494,
+          "sha512": "0e529714569cc8d1bd7123fc02b5586abb60f6e61a61e006c7e63fb6d2a6d52c8fe20201a0a9e4c189641f2a95456bc2f9a7fc62b9479d2453bdfaded6f07a92",
+          "sha256": "f8b7fe5459605092a28405004acbc94e1184588dab5e7e6586c93808b6345c48",
+          "sha1": "cca231a16816bb38db2a8421c577fafb4a07a512",
+          "md5": "29aed152a52330beb360280090b10dae"
         }
       ]
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 15,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -81,11 +81,11 @@
         {
           "name": "nova-network-edge.jar",
           "url": "nova-network-edge.jar",
-          "size": 35493,
-          "sha512": "c5dcd6b7664a3d141fd4aa43b4bce1b61395325513e7c20e53dc2948bfd9961c5865e95f9cab2000522211a2b279fa24b59987ebbdaf8671a3a1d29cfcb0cc7b",
-          "sha256": "1b7e7db04fd95f3d148b5f4cefde6d6917a78df5a160c9eab5fb0b57746a079c",
-          "sha1": "6994b8c7e09fff9aaf1e6aa2a04d266da5514db6",
-          "md5": "e0c5eb11c450271ebabcf500d558fee9"
+          "size": 35494,
+          "sha512": "0e529714569cc8d1bd7123fc02b5586abb60f6e61a61e006c7e63fb6d2a6d52c8fe20201a0a9e4c189641f2a95456bc2f9a7fc62b9479d2453bdfaded6f07a92",
+          "sha256": "f8b7fe5459605092a28405004acbc94e1184588dab5e7e6586c93808b6345c48",
+          "sha1": "cca231a16816bb38db2a8421c577fafb4a07a512",
+          "md5": "29aed152a52330beb360280090b10dae"
         }
       ]
     },
@@ -101,11 +101,11 @@
         {
           "name": "nova-network-edge-javadoc.jar",
           "url": "nova-network-edge-javadoc.jar",
-          "size": 134670,
-          "sha512": "e1b6e4dbde9d93f4b9d591deb9de99dcea372a8ed4eef6dc436cfda091f4d0d9b8ed9dcdc1bcd33e938e7533238a968d71781d20e159045519341e5ab8b1a36e",
-          "sha256": "7bea540d1488517df467ceece489fb3dfdf2389c08198bf24d46698ad4d87820",
-          "sha1": "8b6d5c36d5d5b66ae3b590224960d45c4635f42d",
-          "md5": "5150b1e680568e9e2d24992a16263880"
+          "size": 134671,
+          "sha512": "e807c120b6080fb883935c303276ee2dea222e0b030010c895f2c21eb89752bdb866b13742d2d70ee6c545ad59dd3cfd00a7c36ccfb4bae2b4e987bf73db76ea",
+          "sha256": "8c2f2b9ad8482c96e5f5110b60845471b4c6965377df3850e666b07a50ccbae8",
+          "sha1": "83568442415da37408c225b8784225c7058e8306",
+          "md5": "bd416a1a1f3ed8d3d93a9291f8e06a9a"
         }
       ]
     }
