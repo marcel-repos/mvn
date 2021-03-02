@@ -41,22 +41,22 @@
     <nebula_Built_Status>integration</nebula_Built_Status>
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
-    <nebula_Build_Date>2021-02-27_18:39:12</nebula_Build_Date>
+    <nebula_Build_Date>2021-03-02_13:59:41</nebula_Build_Date>
     <nebula_Gradle_Version>6.8.2</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-api</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/getnova/framework</nebula_Module_Origin>
-    <nebula_Change>09ee956</nebula_Change>
-    <nebula_Full_Change>09ee95668aa9d3848575906d032d067c1134f0ab</nebula_Full_Change>
+    <nebula_Change>a4fe5ea</nebula_Change>
+    <nebula_Full_Change>a4fe5eac7c9d7e5493f82b4a1ae4966d0c90a5de</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
-    <nebula_Build_Host>fv-az135-897</nebula_Build_Host>
+    <nebula_Build_Host>fv-az139-54</nebula_Build_Host>
     <nebula_Build_Job>LOCAL</nebula_Build_Job>
     <nebula_Build_Number>LOCAL</nebula_Build_Number>
     <nebula_Build_Id>LOCAL</nebula_Build_Id>
-    <nebula_Created_By>15.0.2+7 (Azul Systems, Inc.)</nebula_Created_By>
-    <nebula_Build_Java_Version>15.0.2</nebula_Build_Java_Version>
+    <nebula_Created_By>11.0.10+9-LTS (Azul Systems, Inc.)</nebula_Created_By>
+    <nebula_Build_Java_Version>11.0.10</nebula_Build_Java_Version>
     <nebula_Module_Owner></nebula_Module_Owner>
     <nebula_Module_Email></nebula_Module_Email>
-    <nebula_X_Compile_Target_JDK>15</nebula_X_Compile_Target_JDK>
-    <nebula_X_Compile_Source_JDK>15</nebula_X_Compile_Source_JDK>
+    <nebula_X_Compile_Target_JDK>11</nebula_X_Compile_Target_JDK>
+    <nebula_X_Compile_Source_JDK>11</nebula_X_Compile_Source_JDK>
   </properties>
 </project>
