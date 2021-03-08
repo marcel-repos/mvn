@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.2",
-      "buildId": "vndjs2qgvvglngonxnj5ci7krq"
+      "buildId": "rjc5n4tynjc6pkyqwhk574swwi"
     }
   },
   "variants": [
@@ -52,10 +52,10 @@
           "name": "nova-api-edge.jar",
           "url": "nova-api-edge.jar",
           "size": 52506,
-          "sha512": "f331b76ab540a8af1f744ef3f96b2d999a82e0db22f49ee973cdad4cf19d843cf9b4b7ddcb7b097b611881d67e98a1d21f01c74accdc7f6a01a97b9cd2766682",
-          "sha256": "0500e690c20da815a87783db011e5219bf013a98b8c13169e7530dfb5c9c53bd",
-          "sha1": "9361e18aa913fb9be410dde4ef38afe369c2b177",
-          "md5": "a9aa60c524124c61b979e16507379ac8"
+          "sha512": "292d9aaf3b38dc0824849bc7b5b227822ea2904b62b7f5bd84b34615fa4e7f940dfbe3283d5b78d9d15832ea77656933b2f391602c78b528bcb8ac6385b108e4",
+          "sha256": "c11d7fc1f5a9239ac9eae00ae1b332bd6d7a040d4b737492cf67b601ceeb3818",
+          "sha1": "ce5f41a2e755e455fd164776c964554d3cf4ba7f",
+          "md5": "67acef64d3dbd3cc0573d59b1c862787"
         }
       ]
     },
@@ -96,10 +96,10 @@
           "name": "nova-api-edge.jar",
           "url": "nova-api-edge.jar",
           "size": 52506,
-          "sha512": "f331b76ab540a8af1f744ef3f96b2d999a82e0db22f49ee973cdad4cf19d843cf9b4b7ddcb7b097b611881d67e98a1d21f01c74accdc7f6a01a97b9cd2766682",
-          "sha256": "0500e690c20da815a87783db011e5219bf013a98b8c13169e7530dfb5c9c53bd",
-          "sha1": "9361e18aa913fb9be410dde4ef38afe369c2b177",
-          "md5": "a9aa60c524124c61b979e16507379ac8"
+          "sha512": "292d9aaf3b38dc0824849bc7b5b227822ea2904b62b7f5bd84b34615fa4e7f940dfbe3283d5b78d9d15832ea77656933b2f391602c78b528bcb8ac6385b108e4",
+          "sha256": "c11d7fc1f5a9239ac9eae00ae1b332bd6d7a040d4b737492cf67b601ceeb3818",
+          "sha1": "ce5f41a2e755e455fd164776c964554d3cf4ba7f",
+          "md5": "67acef64d3dbd3cc0573d59b1c862787"
         }
       ]
     },
@@ -115,11 +115,11 @@
         {
           "name": "nova-api-edge-javadoc.jar",
           "url": "nova-api-edge-javadoc.jar",
-          "size": 508626,
-          "sha512": "839dd44d4a55a2734812c960f45f9784c5ea03cc202934a536f1f285d9cca4cbf25457000d5ac3486f956629c54712ed23e71f6b12b120d6a6b286bae3c4d5ab",
-          "sha256": "ce4dc86a36b004b4c9f28f6398c204763db42fddef3a88577926f27722d828cb",
-          "sha1": "279bf79c120af035b3f367ba8be5651cecec7c0f",
-          "md5": "354a0df213fc9841275129c904d8a5c4"
+          "size": 508629,
+          "sha512": "016ed0a10980666cc7b419fee8e331aaca911dd59a5d1c4e20205df6a27510ce807f9fe040e0324238392bf074b3ce13455153ddbc3da58317b3d22eeeb3111b",
+          "sha256": "c84e2074f6af3b2df9981c494b2535f82b4e516c79f02826dd7de740716d7fc5",
+          "sha1": "5bb658bd83eca096c70c629cde4c32165bf8d0e3",
+          "md5": "25bfcc8a2b416465dbb19c47e47ccd4b"
         }
       ]
     }
