@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.3",
-      "buildId": "q52r4xsm4rbntd7lzsqpvxx6pi"
+      "buildId": "mhzwgocwgzg3ld6pdmm7qhy5wm"
     }
   },
   "variants": [
@@ -62,11 +62,11 @@
         {
           "name": "nova-api-rest-edge.jar",
           "url": "nova-api-rest-edge.jar",
-          "size": 23154,
-          "sha512": "637f116dc915a63331596f1a85682d8f501c447df64585fdd8e5905f7bba9bbe86af18c6185e082c1b44b7747e46daabc8b4ce65dcb63940da8ae6f9cd797913",
-          "sha256": "e8e00a91f9569e2d449a36aafeecd8c3a2aed68d5a61141433dfb27d4353ce0f",
-          "sha1": "385b78e8ccd7ce218338f5e3b27167c1c89eab28",
-          "md5": "92ccb543be4ca41916bc66a3d5961c36"
+          "size": 23151,
+          "sha512": "b21d5cf2adb0105e12b179f1e9c92cdd603d8cedaf64e461d7d834ff59cdf1a798a1f7af13987ac18f334c1bd1ae4919969a8c1b88c1c0d50f9e701777b82e65",
+          "sha256": "42cf71fe1d5e2ff2ef351c95dda676a0c7a9612c7a7a5edb9a1964a1b0eaae0a",
+          "sha1": "2e4c44a0c03e3b0cfc8d4afb0d764e79a2f2f1f0",
+          "md5": "93f95490d7371c97088a1846d64cb4ac"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "nova-api-rest-edge.jar",
           "url": "nova-api-rest-edge.jar",
-          "size": 23154,
-          "sha512": "637f116dc915a63331596f1a85682d8f501c447df64585fdd8e5905f7bba9bbe86af18c6185e082c1b44b7747e46daabc8b4ce65dcb63940da8ae6f9cd797913",
-          "sha256": "e8e00a91f9569e2d449a36aafeecd8c3a2aed68d5a61141433dfb27d4353ce0f",
-          "sha1": "385b78e8ccd7ce218338f5e3b27167c1c89eab28",
-          "md5": "92ccb543be4ca41916bc66a3d5961c36"
+          "size": 23151,
+          "sha512": "b21d5cf2adb0105e12b179f1e9c92cdd603d8cedaf64e461d7d834ff59cdf1a798a1f7af13987ac18f334c1bd1ae4919969a8c1b88c1c0d50f9e701777b82e65",
+          "sha256": "42cf71fe1d5e2ff2ef351c95dda676a0c7a9612c7a7a5edb9a1964a1b0eaae0a",
+          "sha1": "2e4c44a0c03e3b0cfc8d4afb0d764e79a2f2f1f0",
+          "md5": "93f95490d7371c97088a1846d64cb4ac"
         }
       ]
     },
@@ -144,11 +144,11 @@
         {
           "name": "nova-api-rest-edge-javadoc.jar",
           "url": "nova-api-rest-edge-javadoc.jar",
-          "size": 416420,
-          "sha512": "a72b9606f55a792849aab776527e02f6289cf40ddcd6d8e56c515cb5c61411ad4fda9f14e51eeaf562a8f9e401bde6f93a4f358b48cc904668e2843d5175cd93",
-          "sha256": "c75602be874b36b8967e8d5179fe3d60d331c80b0c949d8d929af5b42888c472",
-          "sha1": "fee13582eda1962a171f2d4e1a95eaf07651bad6",
-          "md5": "e519fbbf5cf8948f534a031936c89ecd"
+          "size": 416419,
+          "sha512": "bc34e3d01d6ff50261089a4efabd10cfc51f9392c696936c69d00f6cdecfd33c660b69f6847a8d92df41dd4d9fed69e196abbdbc5a777afe61550204262a2905",
+          "sha256": "6f1cb7e1b0ac304a7de25b6c8ea53c08bbff682ea6e7661c67c94ee4120c0fb3",
+          "sha1": "a0daedef7849c0791014204e02a294869dc02638",
+          "md5": "3409f6b2081cfd1e9b2001efd8fbc725"
         }
       ]
     }
