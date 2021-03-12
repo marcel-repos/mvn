@@ -1,0 +1,156 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework",
+    "module": "nova-api-ws",
+    "version": "edge",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "reqszv32z5ctfnu5dof5elmrci"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-dependencies",
+          "version": {
+            "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-context",
+          "version": {
+            "requires": "5.3.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.4"
+          }
+        },
+        {
+          "group": "net.getnova.framework",
+          "module": "nova-api",
+          "version": {
+            "requires": "edge"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-api-ws-edge.jar",
+          "url": "nova-api-ws-edge.jar",
+          "size": 28295,
+          "sha512": "43c36aa4b97c794ae316c02032a35ea96b54d9eb4873bf76a79b8f7952a086d69748e5e937070cdf6a67a0e8a637019fd09e921f044e34c4b65d7ba048d4a8af",
+          "sha256": "8a4134fa85a4cbeff843b7b76664fa4d362c8470959807cda1877ae0ad46fec1",
+          "sha1": "ba791ee69ad1f22e192a61f7b98083cb6b23ba60",
+          "md5": "071e78df2fafb075882efd0cfa81d233"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-dependencies",
+          "version": {
+            "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-context",
+          "version": {
+            "requires": "5.3.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.4"
+          }
+        },
+        {
+          "group": "net.getnova.framework",
+          "module": "nova-api",
+          "version": {
+            "requires": "edge"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-api-ws-edge.jar",
+          "url": "nova-api-ws-edge.jar",
+          "size": 28295,
+          "sha512": "43c36aa4b97c794ae316c02032a35ea96b54d9eb4873bf76a79b8f7952a086d69748e5e937070cdf6a67a0e8a637019fd09e921f044e34c4b65d7ba048d4a8af",
+          "sha256": "8a4134fa85a4cbeff843b7b76664fa4d362c8470959807cda1877ae0ad46fec1",
+          "sha1": "ba791ee69ad1f22e192a61f7b98083cb6b23ba60",
+          "md5": "071e78df2fafb075882efd0cfa81d233"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-api-ws-edge-javadoc.jar",
+          "url": "nova-api-ws-edge-javadoc.jar",
+          "size": 433986,
+          "sha512": "df2980cb0c0642bce1264546055a5e146bf4ef15d6fad3c3addd67c1cfdaf85901f419550f18e78f8e0a8cd1d6bf2bff58feb4a4bb7ff3bab45b48717c510e87",
+          "sha256": "4c8bf6d0ba83aaf7b3dd2655a1e4b3beec44aeb69eae7cad15fb7d64e52ba72f",
+          "sha1": "60944214b02540840b4c141910f164dbb936c6bf",
+          "md5": "dcf8dbc15caf17ada1fca7c93f297a80"
+        }
+      ]
+    }
+  ]
+}

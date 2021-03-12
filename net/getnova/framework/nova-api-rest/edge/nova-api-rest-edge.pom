@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.getnova.framework</groupId>
+  <artifactId>nova-api-rest</artifactId>
+  <version>edge</version>
+  <name>nova-api-rest</name>
+  <url>https://github.com/getnova/framework</url>
+  <scm>
+    <url>https://github.com/getnova/framework</url>
+  </scm>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>2.4.3</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>5.3.4</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>2.11.4</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.getnova.framework</groupId>
+      <artifactId>nova-api</artifactId>
+      <version>edge</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.30</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+  <properties>
+    <nebula_Manifest_Version>1.0</nebula_Manifest_Version>
+    <nebula_Implementation_Title>net.getnova.framework#nova-api-rest;edge</nebula_Implementation_Title>
+    <nebula_Implementation_Version>edge</nebula_Implementation_Version>
+    <nebula_Built_Status>integration</nebula_Built_Status>
+    <nebula_Built_By>runner</nebula_Built_By>
+    <nebula_Built_OS>Linux</nebula_Built_OS>
+    <nebula_Build_Date>2021-03-12_12:59:33</nebula_Build_Date>
+    <nebula_Gradle_Version>6.8.3</nebula_Gradle_Version>
+    <nebula_Module_Source>/nova-api-rest</nebula_Module_Source>
+    <nebula_Module_Origin>https://github.com/getnova/framework</nebula_Module_Origin>
+    <nebula_Change>b24a8fa</nebula_Change>
+    <nebula_Full_Change>b24a8fa89f6c7fd947673ef0fbd2241757683a78</nebula_Full_Change>
+    <nebula_Branch>main</nebula_Branch>
+    <nebula_Build_Host>fv-az154-753</nebula_Build_Host>
+    <nebula_Build_Job>LOCAL</nebula_Build_Job>
+    <nebula_Build_Number>LOCAL</nebula_Build_Number>
+    <nebula_Build_Id>LOCAL</nebula_Build_Id>
+    <nebula_Created_By>11.0.10+9-LTS (Azul Systems, Inc.)</nebula_Created_By>
+    <nebula_Build_Java_Version>11.0.10</nebula_Build_Java_Version>
+    <nebula_Module_Owner></nebula_Module_Owner>
+    <nebula_Module_Email></nebula_Module_Email>
+    <nebula_X_Compile_Target_JDK>11</nebula_X_Compile_Target_JDK>
+    <nebula_X_Compile_Source_JDK>11</nebula_X_Compile_Source_JDK>
+  </properties>
+</project>

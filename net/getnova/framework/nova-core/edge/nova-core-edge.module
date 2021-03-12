@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.8.2",
-      "buildId": "zbalho3jyfckbj4nj6k5pfkfj4"
+      "version": "6.8.3",
+      "buildId": "reqszv32z5ctfnu5dof5elmrci"
     }
   },
   "variants": [
@@ -27,9 +27,34 @@
       "dependencies": [
         {
           "group": "org.springframework.boot",
-          "module": "spring-boot-starter",
+          "module": "spring-boot-dependencies",
           "version": {
             "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-aop",
+          "version": {
+            "requires": "5.3.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.4"
+          }
+        },
+        {
+          "group": "io.projectreactor.netty",
+          "module": "reactor-netty-http",
+          "version": {
+            "requires": "1.0.4"
           }
         }
       ],
@@ -37,11 +62,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 1932,
-          "sha512": "ccb05f79a5774996079fdbdd9659cb9be19953db56a140e2a199e8e170b966db94d8ad23bb0701485d5d0b159cabe7326e1ef4f2c6ec55693ce95a3687d091b5",
-          "sha256": "3d22876c92f38b16a49d54b215c709b3e4ce831f124a03ab088cedbd4b50a716",
-          "sha1": "0789de37768cc128d8ca56d4ea7660001606ec79",
-          "md5": "4ea40dc72c4322fba4832cf073644685"
+          "size": 19142,
+          "sha512": "82f15ea924b31e44980b294c6c1b2814c843b56eaf3a1fb96a0d4786df06e53e8e641fb4857ff5ccc29c4719553542e3d922d21c0f2e5c93a98cff05b8efbc32",
+          "sha256": "2e20a32e5cb8fb89859c60b537bffa7a1b50181918027e01a7275a33f06fb9be",
+          "sha1": "50eac1703de48660088fac71bd2e9831e8edd630",
+          "md5": "f7339f647148b78eaf21ff80be83ce93"
         }
       ]
     },
@@ -56,10 +81,42 @@
       },
       "dependencies": [
         {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
           "group": "org.springframework.boot",
-          "module": "spring-boot-starter",
+          "module": "spring-boot-dependencies",
           "version": {
             "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-aop",
+          "version": {
+            "requires": "5.3.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.4"
+          }
+        },
+        {
+          "group": "io.projectreactor.netty",
+          "module": "reactor-netty-http",
+          "version": {
+            "requires": "1.0.4"
           }
         }
       ],
@@ -67,11 +124,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 1932,
-          "sha512": "ccb05f79a5774996079fdbdd9659cb9be19953db56a140e2a199e8e170b966db94d8ad23bb0701485d5d0b159cabe7326e1ef4f2c6ec55693ce95a3687d091b5",
-          "sha256": "3d22876c92f38b16a49d54b215c709b3e4ce831f124a03ab088cedbd4b50a716",
-          "sha1": "0789de37768cc128d8ca56d4ea7660001606ec79",
-          "md5": "4ea40dc72c4322fba4832cf073644685"
+          "size": 19142,
+          "sha512": "82f15ea924b31e44980b294c6c1b2814c843b56eaf3a1fb96a0d4786df06e53e8e641fb4857ff5ccc29c4719553542e3d922d21c0f2e5c93a98cff05b8efbc32",
+          "sha256": "2e20a32e5cb8fb89859c60b537bffa7a1b50181918027e01a7275a33f06fb9be",
+          "sha1": "50eac1703de48660088fac71bd2e9831e8edd630",
+          "md5": "f7339f647148b78eaf21ff80be83ce93"
         }
       ]
     },
@@ -87,11 +144,11 @@
         {
           "name": "nova-core-edge-javadoc.jar",
           "url": "nova-core-edge-javadoc.jar",
-          "size": 394321,
-          "sha512": "eff558ebd4123644393b792689b070904ee707a5401beabd9f6c215c76c776eb758dea40af10fcb2717384806225b3ce5735dad206f37f1984ea13045e31e517",
-          "sha256": "5ac8ed26a7ae0e0fcbdb6c46022452d136e187ce7303503e2bd4aeb26910c7f2",
-          "sha1": "bcb430a555d8cddb30ca927f1d7854c29eb11543",
-          "md5": "54487a53d6a8c3b0486951d524a36e2d"
+          "size": 409659,
+          "sha512": "6e7ef865a4f5b57e9e5698ad7bab25be82fb51e4d9f59eb389855fca9d3907832ae8b64fb0c95bd05db536d77f82d86a08e5b3a42efc5202c5289b0dbf2f3fa7",
+          "sha256": "5db1603cc0bd9f5360bb81e30fdfac8284b225328fce883dfe3c3e0a0ea3ab88",
+          "sha1": "516c114ca282173742c8cded8b85c44896647ae5",
+          "md5": "1d7ab4abb611ac870b84df03a1432192"
         }
       ]
     }

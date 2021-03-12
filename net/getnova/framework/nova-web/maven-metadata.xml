@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.getnova.framework</groupId>
+  <artifactId>nova-web</artifactId>
+  <versioning>
+    <latest>edge</latest>
+    <release>edge</release>
+    <versions>
+      <version>edge</version>
+    </versions>
+    <lastUpdated>20210312130002</lastUpdated>
+  </versioning>
+</metadata>

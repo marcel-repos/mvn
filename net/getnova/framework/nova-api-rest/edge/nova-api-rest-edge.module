@@ -1,0 +1,156 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework",
+    "module": "nova-api-rest",
+    "version": "edge",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "reqszv32z5ctfnu5dof5elmrci"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-dependencies",
+          "version": {
+            "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-context",
+          "version": {
+            "requires": "5.3.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.4"
+          }
+        },
+        {
+          "group": "net.getnova.framework",
+          "module": "nova-api",
+          "version": {
+            "requires": "edge"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-api-rest-edge.jar",
+          "url": "nova-api-rest-edge.jar",
+          "size": 23155,
+          "sha512": "da0bc0a35c2d13b1f158db8955fb84e4f4ed4b2999d17e9c3f9f2c7a8a281480000edfb60506811a54a90fde2f0896d26db0ae2890e54cfeaa6682973a6d9265",
+          "sha256": "473b8defe29233eefd9d061dd4e8dbe8b5008b4ec10b9bfb6ae265f9986a2b69",
+          "sha1": "2f77ce1ccae42b08884fe960c62c6fea9cdd48a2",
+          "md5": "24f1da9c83d1b8ccbb6946b42554ecd3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-dependencies",
+          "version": {
+            "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-context",
+          "version": {
+            "requires": "5.3.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.4"
+          }
+        },
+        {
+          "group": "net.getnova.framework",
+          "module": "nova-api",
+          "version": {
+            "requires": "edge"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-api-rest-edge.jar",
+          "url": "nova-api-rest-edge.jar",
+          "size": 23155,
+          "sha512": "da0bc0a35c2d13b1f158db8955fb84e4f4ed4b2999d17e9c3f9f2c7a8a281480000edfb60506811a54a90fde2f0896d26db0ae2890e54cfeaa6682973a6d9265",
+          "sha256": "473b8defe29233eefd9d061dd4e8dbe8b5008b4ec10b9bfb6ae265f9986a2b69",
+          "sha1": "2f77ce1ccae42b08884fe960c62c6fea9cdd48a2",
+          "md5": "24f1da9c83d1b8ccbb6946b42554ecd3"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-api-rest-edge-javadoc.jar",
+          "url": "nova-api-rest-edge-javadoc.jar",
+          "size": 416425,
+          "sha512": "43d8a78bda38d059809ed7ca3b11bf80070bbf31f6e9db07ef4a65666ea0e46633b5148e0df197b491ce0eee03cc69a4f2afbe042c7443f8d38383cf2b984433",
+          "sha256": "8ff2a04fab437f7afec66bde654a53b655afb56dd87167214a1b90bb07c5ddd3",
+          "sha1": "88d35e09669ca49ea0f160c43e407782543ce43f",
+          "md5": "346a789b7ccb4530c8c7a8d8c439f81c"
+        }
+      ]
+    }
+  ]
+}

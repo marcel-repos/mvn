@@ -1,0 +1,142 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework",
+    "module": "nova-web",
+    "version": "edge",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "reqszv32z5ctfnu5dof5elmrci"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-dependencies",
+          "version": {
+            "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "io.projectreactor.netty",
+          "module": "reactor-netty-http",
+          "version": {
+            "requires": "1.0.4"
+          }
+        },
+        {
+          "group": "net.getnova.framework",
+          "module": "nova-core",
+          "version": {
+            "requires": "edge"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-web-edge.jar",
+          "url": "nova-web-edge.jar",
+          "size": 51949,
+          "sha512": "8c023db26f451cf4c9aad1fc4c46c251dbea519eb0c2d6780c09db1721da95f1b78f8c073c26520414ae3958c8a94ba642980212f8c307462235a526c1afb4fe",
+          "sha256": "0fdf51cfe84a8167f6e338986f3e02ab8f6a5422bf918da834ebaab6a4544478",
+          "sha1": "5ca362ddd2728c6722c743471ae814784b17024a",
+          "md5": "ae9c9aa95e0cb1478b6fa0981e433c2e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-dependencies",
+          "version": {
+            "requires": "2.4.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "io.projectreactor.netty",
+          "module": "reactor-netty-http",
+          "version": {
+            "requires": "1.0.4"
+          }
+        },
+        {
+          "group": "net.getnova.framework",
+          "module": "nova-core",
+          "version": {
+            "requires": "edge"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-web-edge.jar",
+          "url": "nova-web-edge.jar",
+          "size": 51949,
+          "sha512": "8c023db26f451cf4c9aad1fc4c46c251dbea519eb0c2d6780c09db1721da95f1b78f8c073c26520414ae3958c8a94ba642980212f8c307462235a526c1afb4fe",
+          "sha256": "0fdf51cfe84a8167f6e338986f3e02ab8f6a5422bf918da834ebaab6a4544478",
+          "sha1": "5ca362ddd2728c6722c743471ae814784b17024a",
+          "md5": "ae9c9aa95e0cb1478b6fa0981e433c2e"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-web-edge-javadoc.jar",
+          "url": "nova-web-edge-javadoc.jar",
+          "size": 439390,
+          "sha512": "c13e1507c337fd315322fface96a159214842dd71d954a8d3cd136ca1674375ca9874cccdc4fccc4dcb18bddc644f586b366675e171b141f65d4dfa4046d6e41",
+          "sha256": "3beec2d08f6278e0324ad67641d7d246ac136abf167b4b6109a8e287ef7013d6",
+          "sha1": "d5566584d61543b85f2152ce7a3076c6249593a5",
+          "md5": "0a22739d819100c0a783bad430967db1"
+        }
+      ]
+    }
+  ]
+}

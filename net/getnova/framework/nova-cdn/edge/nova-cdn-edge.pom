@@ -14,16 +14,21 @@
   <scm>
     <url>https://github.com/getnova/framework</url>
   </scm>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>2.4.3</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
   <dependencies>
     <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter</artifactId>
-      <version>2.4.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>net.getnova.framework</groupId>
-      <artifactId>nova-network</artifactId>
+      <artifactId>nova-web</artifactId>
       <version>edge</version>
       <scope>compile</scope>
     </dependency>
@@ -33,6 +38,12 @@
       <version>edge</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.30</version>
+      <scope>runtime</scope>
+    </dependency>
   </dependencies>
   <properties>
     <nebula_Manifest_Version>1.0</nebula_Manifest_Version>
@@ -41,14 +52,14 @@
     <nebula_Built_Status>integration</nebula_Built_Status>
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
-    <nebula_Build_Date>2021-03-10_12:57:04</nebula_Build_Date>
-    <nebula_Gradle_Version>6.8.2</nebula_Gradle_Version>
+    <nebula_Build_Date>2021-03-12_12:59:34</nebula_Build_Date>
+    <nebula_Gradle_Version>6.8.3</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-cdn</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/getnova/framework</nebula_Module_Origin>
-    <nebula_Change>fe2bf3f</nebula_Change>
-    <nebula_Full_Change>fe2bf3ffd3513eb80c62f7b47ae514cc49dd859d</nebula_Full_Change>
+    <nebula_Change>b24a8fa</nebula_Change>
+    <nebula_Full_Change>b24a8fa89f6c7fd947673ef0fbd2241757683a78</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
-    <nebula_Build_Host>fv-az18-283</nebula_Build_Host>
+    <nebula_Build_Host>fv-az154-753</nebula_Build_Host>
     <nebula_Build_Job>LOCAL</nebula_Build_Job>
     <nebula_Build_Number>LOCAL</nebula_Build_Number>
     <nebula_Build_Id>LOCAL</nebula_Build_Id>
