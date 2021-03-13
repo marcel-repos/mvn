@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.3",
-      "buildId": "mhzwgocwgzg3ld6pdmm7qhy5wm"
+      "buildId": "fkkunofbyfc4bfm73lpezgqglu"
     }
   },
   "variants": [
@@ -62,11 +62,11 @@
         {
           "name": "nova-api-ws-edge.jar",
           "url": "nova-api-ws-edge.jar",
-          "size": 28291,
-          "sha512": "3c68d64b2d4918ee42fe534f75607dfe42239d790ddb7d5c4f65a22ed8745226d6cc87cadae9254a2d4399c1b26c4d48cfdbbca83b914870039dad39a2a6c165",
-          "sha256": "543d563df3b6657cbd3b46f94bb62e67c244bfa91079466a4c4656dee65185a0",
-          "sha1": "8bee25239709ee423e1a24cd3745668f50d38358",
-          "md5": "9602908f4a93dfc3204f4735aa2f5d7c"
+          "size": 28292,
+          "sha512": "3c6ff8719490dd785c3eb2ae7ee55c2cd01b109d2b67733687fdebe9c66133949937c3ae006156f7f61b2c4197ecc8ae5b956084a9fc5bd662130d1a1fe03a34",
+          "sha256": "6612da60ffae502b2b1766af24c5aeec8b4d92e20c3d7e21d6620bb7f95d5a08",
+          "sha1": "cb422af9038cfc0277d04348b3f5ecb5b41aed3f",
+          "md5": "06f04368f2ba01386b328e8be797c970"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "nova-api-ws-edge.jar",
           "url": "nova-api-ws-edge.jar",
-          "size": 28291,
-          "sha512": "3c68d64b2d4918ee42fe534f75607dfe42239d790ddb7d5c4f65a22ed8745226d6cc87cadae9254a2d4399c1b26c4d48cfdbbca83b914870039dad39a2a6c165",
-          "sha256": "543d563df3b6657cbd3b46f94bb62e67c244bfa91079466a4c4656dee65185a0",
-          "sha1": "8bee25239709ee423e1a24cd3745668f50d38358",
-          "md5": "9602908f4a93dfc3204f4735aa2f5d7c"
+          "size": 28292,
+          "sha512": "3c6ff8719490dd785c3eb2ae7ee55c2cd01b109d2b67733687fdebe9c66133949937c3ae006156f7f61b2c4197ecc8ae5b956084a9fc5bd662130d1a1fe03a34",
+          "sha256": "6612da60ffae502b2b1766af24c5aeec8b4d92e20c3d7e21d6620bb7f95d5a08",
+          "sha1": "cb422af9038cfc0277d04348b3f5ecb5b41aed3f",
+          "md5": "06f04368f2ba01386b328e8be797c970"
         }
       ]
     },
@@ -144,11 +144,11 @@
         {
           "name": "nova-api-ws-edge-javadoc.jar",
           "url": "nova-api-ws-edge-javadoc.jar",
-          "size": 433981,
-          "sha512": "8bb8796248dcad4050ee55bcc376d9187d03f85edf0a8be6830f5bee5e71ecfab25c7bebbdb72fd2cefb2db4ca930ae5a87f24de1cc95c36749154db6ab4e596",
-          "sha256": "1529307b7b8e030de93c775c70a1d0e7d43fed625bae3f54e1d73cb481da6dc6",
-          "sha1": "665eb37c55f68eb300f8898995f07ff3f5cfe056",
-          "md5": "8148ba62378dbc7834e213cf872613f8"
+          "size": 433985,
+          "sha512": "6f6c67c84d98722883bc8db2facf218b3a81b22c0a914f0b21c9e6df456e4997d673c65e6d7407e1de644d45be0b6973c72459ec82d1862e8cb76f95efe938f9",
+          "sha256": "7720409b360268e7a83ebca5580cea8d2db3d6545b339283509b1890f8335771",
+          "sha1": "1aa3c78c1a62fe2500210533d67afbe19883e2d9",
+          "md5": "07e54fb45f8970b76075e7181b5af789"
         }
       ]
     }
