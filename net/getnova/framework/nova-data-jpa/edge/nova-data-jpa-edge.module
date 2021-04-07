@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.3",
-      "buildId": "54cwzrkpgvdofdzqybp5odeury"
+      "buildId": "635bugwqgjaqvbdwj5hdwr2eiq"
     }
   },
   "variants": [
@@ -37,13 +37,6 @@
           "endorseStrictVersions": true
         },
         {
-          "group": "com.fasterxml.jackson.core",
-          "module": "jackson-databind",
-          "version": {
-            "requires": "2.11.4"
-          }
-        },
-        {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-data-jpa",
           "version": {
@@ -55,11 +48,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 16036,
-          "sha512": "0b44add935345949f4f9ed7b6b98983ad52d9bacc017a737abf8aabbedfcc86bf7aa303487ec4656fc6b343da911a728a8990ad8c0d5accbbd3de95be0af945e",
-          "sha256": "02d0ebe90d1e3575f5d79b8c1a8917ca38066e246432f5a4ee21d55a665febc9",
-          "sha1": "bbf359af64892dfed0779b33848b59202c75e9f5",
-          "md5": "b0de7e0a16ef1a2d920c55ca48de6f35"
+          "size": 15991,
+          "sha512": "aa0e5bec8d1501b4876b3d1911be13be77e2d6ab59074c9de8d4889d8203367a9e19a0b260f6ca62dd5917b7b7bb06f81c6a0c592575baf08e6bc1860cde4761",
+          "sha256": "d729d1ee07c280abacf121119a5227f8163f6bd3f606119d00bec72d4811fc94",
+          "sha1": "878bc34062043530f579ad86793dca821642755d",
+          "md5": "17c27bbc30c71334c46ca1bfc9a26abe"
         }
       ]
     },
@@ -92,13 +85,6 @@
           "endorseStrictVersions": true
         },
         {
-          "group": "com.fasterxml.jackson.core",
-          "module": "jackson-databind",
-          "version": {
-            "requires": "2.11.4"
-          }
-        },
-        {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-data-jpa",
           "version": {
@@ -110,11 +96,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 16036,
-          "sha512": "0b44add935345949f4f9ed7b6b98983ad52d9bacc017a737abf8aabbedfcc86bf7aa303487ec4656fc6b343da911a728a8990ad8c0d5accbbd3de95be0af945e",
-          "sha256": "02d0ebe90d1e3575f5d79b8c1a8917ca38066e246432f5a4ee21d55a665febc9",
-          "sha1": "bbf359af64892dfed0779b33848b59202c75e9f5",
-          "md5": "b0de7e0a16ef1a2d920c55ca48de6f35"
+          "size": 15991,
+          "sha512": "aa0e5bec8d1501b4876b3d1911be13be77e2d6ab59074c9de8d4889d8203367a9e19a0b260f6ca62dd5917b7b7bb06f81c6a0c592575baf08e6bc1860cde4761",
+          "sha256": "d729d1ee07c280abacf121119a5227f8163f6bd3f606119d00bec72d4811fc94",
+          "sha1": "878bc34062043530f579ad86793dca821642755d",
+          "md5": "17c27bbc30c71334c46ca1bfc9a26abe"
         }
       ]
     },
@@ -130,11 +116,11 @@
         {
           "name": "nova-data-jpa-edge-javadoc.jar",
           "url": "nova-data-jpa-edge-javadoc.jar",
-          "size": 400737,
-          "sha512": "56ffcbfda2599e54a9a603748c1dce1343a64f8d8ea26738194202c495a0982b4651ac0127c50fe86ebf0102c787b5995dfcfa68141e67e697eb8d0b49530f24",
-          "sha256": "c78a83507b8b0c418c055198b41c9ffd53a265dc4dc8e2dbda108718ad03d796",
-          "sha1": "ce7392d3718124811a8b326a52c76bf86fc45f73",
-          "md5": "353472432067c17921f4edabd1314e5c"
+          "size": 400726,
+          "sha512": "5b66f3720c49cbe2db675ca35b1ebf0b5d9017f8c24632d09081ed12cb0cf4b9df8b0226e7fcc40c7d19432f2e438ba0cb53a248018c6bb26f6c90ae48af04ff",
+          "sha256": "8211f09331392503f2270dea5c64f180d6a82dce0cf9826a454e9ff1f71c8326",
+          "sha1": "5a8b3a963c98655ac8defedf0e82f8e42dc26e2d",
+          "md5": "04506b2427ff86e664034e3f1e27d718"
         }
       ]
     }

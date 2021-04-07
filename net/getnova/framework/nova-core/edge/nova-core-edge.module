@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.3",
-      "buildId": "54cwzrkpgvdofdzqybp5odeury"
+      "buildId": "635bugwqgjaqvbdwj5hdwr2eiq"
     }
   },
   "variants": [
@@ -37,24 +37,10 @@
           "endorseStrictVersions": true
         },
         {
-          "group": "org.springframework",
-          "module": "spring-aop",
-          "version": {
-            "requires": "5.3.4"
-          }
-        },
-        {
           "group": "com.fasterxml.jackson.core",
           "module": "jackson-databind",
           "version": {
             "requires": "2.11.4"
-          }
-        },
-        {
-          "group": "io.projectreactor.netty",
-          "module": "reactor-netty-http",
-          "version": {
-            "requires": "1.0.4"
           }
         }
       ],
@@ -62,11 +48,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 19142,
-          "sha512": "25e859c06ce56edd327ac764f8e6bed32efde1368076dd26f73993d15db62a8c2ad7662d8a51aa1528e2c5e8c513ac0d7b50cdffffa1b6fd6d62d667227548a4",
-          "sha256": "5df841c5addcea5a9e9a3e6ba05780e913ebf839b6ad754223da86df9d1af9f9",
-          "sha1": "27624b7599c298714fd01a1d502c921be3ee210f",
-          "md5": "ab8f556765507d7bfb1aa9454c6d6cf7"
+          "size": 16038,
+          "sha512": "acc6176241b15ea881df1054c432274a82327e9d2d8f7b41573ce2bed56cc26e4eddaf8f33c687be55469a0d033a2e4debe0819e18b26a0fef9cec55637cd40e",
+          "sha256": "c936245431f2591b7ea3ec89a4d4c30e64f02205f708b476851fb22afd409412",
+          "sha1": "ce539fc80d7d52a9c963379ccc7e03469c256e2e",
+          "md5": "047a1c477b034285032a484626b55499"
         }
       ]
     },
@@ -99,24 +85,10 @@
           "endorseStrictVersions": true
         },
         {
-          "group": "org.springframework",
-          "module": "spring-aop",
-          "version": {
-            "requires": "5.3.4"
-          }
-        },
-        {
           "group": "com.fasterxml.jackson.core",
           "module": "jackson-databind",
           "version": {
             "requires": "2.11.4"
-          }
-        },
-        {
-          "group": "io.projectreactor.netty",
-          "module": "reactor-netty-http",
-          "version": {
-            "requires": "1.0.4"
           }
         }
       ],
@@ -124,11 +96,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 19142,
-          "sha512": "25e859c06ce56edd327ac764f8e6bed32efde1368076dd26f73993d15db62a8c2ad7662d8a51aa1528e2c5e8c513ac0d7b50cdffffa1b6fd6d62d667227548a4",
-          "sha256": "5df841c5addcea5a9e9a3e6ba05780e913ebf839b6ad754223da86df9d1af9f9",
-          "sha1": "27624b7599c298714fd01a1d502c921be3ee210f",
-          "md5": "ab8f556765507d7bfb1aa9454c6d6cf7"
+          "size": 16038,
+          "sha512": "acc6176241b15ea881df1054c432274a82327e9d2d8f7b41573ce2bed56cc26e4eddaf8f33c687be55469a0d033a2e4debe0819e18b26a0fef9cec55637cd40e",
+          "sha256": "c936245431f2591b7ea3ec89a4d4c30e64f02205f708b476851fb22afd409412",
+          "sha1": "ce539fc80d7d52a9c963379ccc7e03469c256e2e",
+          "md5": "047a1c477b034285032a484626b55499"
         }
       ]
     },
@@ -144,11 +116,11 @@
         {
           "name": "nova-core-edge-javadoc.jar",
           "url": "nova-core-edge-javadoc.jar",
-          "size": 409662,
-          "sha512": "f555c0a73dbda4c1dfe9d81a1af583492493f6627bd65fa74b80964321cc951e929292bdeeaaa520de24ec78850fe2f9b317eb36fc021cb5cc6d7b76cebacc3f",
-          "sha256": "4af0e8c4b4cf6c796391665572a5fb33eb48becc26f2edf15e99867954e4061b",
-          "sha1": "3bbb50a12b1ae361fbd0644810a03826a3e11047",
-          "md5": "4328f95aa6e21b37330f4031f7db67cd"
+          "size": 403413,
+          "sha512": "e5a5d30a20970562218a04ffb7b3be4bda1b0d9dd091677b627577f2999ce2a865363089a9d6fa8dee430efb863ce2daa21369dd5a914e3b13d38a75d7c50cd0",
+          "sha256": "fe2dd62067711e48f4aeaf9be3460f2762de636eb14f2405e5fa36343e3e34c1",
+          "sha1": "cd49d96f0bf13a4716f465120c1984e7c5ae5479",
+          "md5": "eee19fcc96fddf2cb72e6aea2136fd01"
         }
       ]
     }
