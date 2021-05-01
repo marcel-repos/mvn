@@ -47,11 +47,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 16370,
-          "sha512": "d721221a4982e7e2b1789886586ac724bbf42818ece6a0e0f0afdfe233636262671d990efc65e2c600022193f13306fd7c456c84192d10fd7f3e48c63d7c0d71",
-          "sha256": "a83a64d40ad6435451a87668c513b37763c5e56e4e5861f3bdc976b7e0a4de31",
-          "sha1": "80142e06c2be40b952d2df4b179f34794932e1bb",
-          "md5": "ca2881c33de0747a5fa411f9bce644a1"
+          "size": 16711,
+          "sha512": "514173292c6ea9a9e326cf5922a129cd8d506e552f4cc60ac73e96e55147ea45860e5a113d937ab1e8311510bb3b5f5afbc8b3459d05232d270a2413c9f67357",
+          "sha256": "48b9076d2f327b8f107ed51f5d63c1f945cedc32012c4383200a59736a8d6ffc",
+          "sha1": "e25cbf3488bd772ff830d813ea915152c49b0d50",
+          "md5": "302f1a4e1d81d7c6cc8c337bb5a6dd0a"
         }
       ]
     },
@@ -95,11 +95,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 16370,
-          "sha512": "d721221a4982e7e2b1789886586ac724bbf42818ece6a0e0f0afdfe233636262671d990efc65e2c600022193f13306fd7c456c84192d10fd7f3e48c63d7c0d71",
-          "sha256": "a83a64d40ad6435451a87668c513b37763c5e56e4e5861f3bdc976b7e0a4de31",
-          "sha1": "80142e06c2be40b952d2df4b179f34794932e1bb",
-          "md5": "ca2881c33de0747a5fa411f9bce644a1"
+          "size": 16711,
+          "sha512": "514173292c6ea9a9e326cf5922a129cd8d506e552f4cc60ac73e96e55147ea45860e5a113d937ab1e8311510bb3b5f5afbc8b3459d05232d270a2413c9f67357",
+          "sha256": "48b9076d2f327b8f107ed51f5d63c1f945cedc32012c4383200a59736a8d6ffc",
+          "sha1": "e25cbf3488bd772ff830d813ea915152c49b0d50",
+          "md5": "302f1a4e1d81d7c6cc8c337bb5a6dd0a"
         }
       ]
     },
@@ -115,11 +115,11 @@
         {
           "name": "nova-core-edge-javadoc.jar",
           "url": "nova-core-edge-javadoc.jar",
-          "size": 405705,
-          "sha512": "edf11155b4fa55aa61a3f28dbf3d55e6708b772c8e67162f383877aaa925c86569a7cae9b9e22960a3fefe74d937de4dbcc5bb7c3132dffcd1208a2030b758f3",
-          "sha256": "5e22a7f7e708020a37746f91e296130bd71cd13590cd2d3a3fc83944eddfbdfb",
-          "sha1": "43f97fad38a13007bb257d4f9b62233c00f0dc0c",
-          "md5": "97393f69d06c00644efe052f16e31ec1"
+          "size": 407843,
+          "sha512": "cbbc54e8794f73658ab326158a111d1164cae8f2cdab60ace1cf30ec3a5ec9ca49eb2cfefd702f20f70628b947a155f4539a18aefbf1d4213003c8f1918060b6",
+          "sha256": "3a1703613b5f9e3184b355e8efaeb91d18df1440307889cf98b068021b4a178b",
+          "sha1": "e74278538707a8919f0c19c9bed362961d44e563",
+          "md5": "d3e616d34ea624c37977fec0923fdb98"
         }
       ]
     }
