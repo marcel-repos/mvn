@@ -1,0 +1,126 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework.legacy",
+    "module": "nova-cdn",
+    "version": "2.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-boot",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-network",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-data-jpa",
+          "version": {
+            "requires": "2.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-cdn-2.0.1.jar",
+          "url": "nova-cdn-2.0.1.jar",
+          "size": 14165,
+          "sha512": "0fe50a06ce4f1a0c44a000bb9752266a2871ecd79251c3a2b8b334e9c0f26d60861843e5d06313aeb7ef2ec71d14660fd9bb5fb9188daf6d71d71c32e75f8f08",
+          "sha256": "df392a4d4dafab11c677beeb38aa31cbc456d57562429bb6c19a169a6e5eee6e",
+          "sha1": "32f8f1fc9516f674b56556332fb3b336b260dd1c",
+          "md5": "6e15a1ec6e0545b6357ed97a2a5c9e00"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-boot",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-network",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-data-jpa",
+          "version": {
+            "requires": "2.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-cdn-2.0.1.jar",
+          "url": "nova-cdn-2.0.1.jar",
+          "size": 14165,
+          "sha512": "0fe50a06ce4f1a0c44a000bb9752266a2871ecd79251c3a2b8b334e9c0f26d60861843e5d06313aeb7ef2ec71d14660fd9bb5fb9188daf6d71d71c32e75f8f08",
+          "sha256": "df392a4d4dafab11c677beeb38aa31cbc456d57562429bb6c19a169a6e5eee6e",
+          "sha1": "32f8f1fc9516f674b56556332fb3b336b260dd1c",
+          "md5": "6e15a1ec6e0545b6357ed97a2a5c9e00"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-cdn-2.0.1-javadoc.jar",
+          "url": "nova-cdn-2.0.1-javadoc.jar",
+          "size": 124214,
+          "sha512": "a051a0b79f0082771a191bb098cda065ead2bd70cd804e3bc77862c62359ef3b0527fef6c543150fb63fab738cee46af457e9452d43833d5f9cf4df9128f7d46",
+          "sha256": "ff93d5937b3b65d82452f34c716d1edbcc03772bbbccb6d8be7cf2594119c7a1",
+          "sha1": "a9977028c6f095104911da2459d02e955a49ce54",
+          "md5": "91597bacb7b7ff382455f16c65f2ae6f"
+        }
+      ]
+    }
+  ]
+}

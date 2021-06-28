@@ -1,0 +1,134 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.getnova.framework.legacy",
+    "module": "nova-data",
+    "version": "2.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-boot",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "org.springframework.data",
+          "module": "spring-data-releasetrain",
+          "version": {
+            "requires": "Neumann-SR4"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework.data",
+          "module": "spring-data-commons",
+          "version": {
+            "requires": "2.3.4.RELEASE"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-data-2.0.1.jar",
+          "url": "nova-data-2.0.1.jar",
+          "size": 1185,
+          "sha512": "94b35d83b127e4bae049076eab0eaa0420bf6ecdee6cdf2ea62bc73d33d6e68587f999de4d53ee7c2e357d05284d39cb536dbd688fe99e48c6290fc103057284",
+          "sha256": "1f3568e902aebec147062456b12db7d9099630b12083011f1c3adea125fcdc9e",
+          "sha1": "d8480ca0f5cd26dee05d8fb8b0d99a126a96f2fe",
+          "md5": "f38691104a5e668da96679a093a9967f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.getnova.framework.legacy",
+          "module": "nova-boot",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "org.springframework.data",
+          "module": "spring-data-releasetrain",
+          "version": {
+            "requires": "Neumann-SR4"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.springframework.data",
+          "module": "spring-data-commons",
+          "version": {
+            "requires": "2.3.4.RELEASE"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-data-2.0.1.jar",
+          "url": "nova-data-2.0.1.jar",
+          "size": 1185,
+          "sha512": "94b35d83b127e4bae049076eab0eaa0420bf6ecdee6cdf2ea62bc73d33d6e68587f999de4d53ee7c2e357d05284d39cb536dbd688fe99e48c6290fc103057284",
+          "sha256": "1f3568e902aebec147062456b12db7d9099630b12083011f1c3adea125fcdc9e",
+          "sha1": "d8480ca0f5cd26dee05d8fb8b0d99a126a96f2fe",
+          "md5": "f38691104a5e668da96679a093a9967f"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-data-2.0.1-javadoc.jar",
+          "url": "nova-data-2.0.1-javadoc.jar",
+          "size": 1119,
+          "sha512": "85333fc56d3586244d17acc64a3569a4b54bc322b69fe08c12ec0a0f85a4bf8d01a4180ebc806ed72e75a539a24918444970cd359ada66286267dee9b77b80f6",
+          "sha256": "fa4f94e25f0848df797aafdfbe557a4db0fdc360543900ce40b484c2a66f0ac2",
+          "sha1": "633e975bf928c42ecd6434d761ccf81caf90a569",
+          "md5": "1f2126113a3adb5876d995b4b9f65d16"
+        }
+      ]
+    }
+  ]
+}
