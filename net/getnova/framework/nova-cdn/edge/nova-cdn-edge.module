@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0"
+      "version": "7.1.1"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "nova-cdn-edge.jar",
           "url": "nova-cdn-edge.jar",
-          "size": 18553,
-          "sha512": "4d6c2758794121ee9caea6928915b826acf3080f860428c63116185006aa7f61b1364b30a333d6a03e1693fdc20e4763e22ba936b009a395bb40b81339dacc14",
-          "sha256": "359da0aea0f18a60d124b7d5b3664b4b2fe5988e77ac9a2325e09b607ce05a29",
-          "sha1": "d9b73be4eee865155a5de8a2c7285382184566e9",
-          "md5": "556f0b10b5afb0305bc116647ca6783c"
+          "size": 18557,
+          "sha512": "c9b4ed5c77ea38b492713a54304e1295636ad2aaaaa9d6bcfabf7ff9d9c7d3cb260a2748ad7fd065e859484b98801561bf3ee455a9d7afbcd73a721943dca0f5",
+          "sha256": "0693a05128dd37b3fa0dceaf0ee3a94595e00f25b07fb51a49d571479eb53999",
+          "sha1": "cb0d97e7c7c2a9c299ca5230d7620512455c1bdc",
+          "md5": "05d13f589634aef349727e054ca43da0"
         }
       ]
     },
@@ -95,11 +95,11 @@
         {
           "name": "nova-cdn-edge.jar",
           "url": "nova-cdn-edge.jar",
-          "size": 18553,
-          "sha512": "4d6c2758794121ee9caea6928915b826acf3080f860428c63116185006aa7f61b1364b30a333d6a03e1693fdc20e4763e22ba936b009a395bb40b81339dacc14",
-          "sha256": "359da0aea0f18a60d124b7d5b3664b4b2fe5988e77ac9a2325e09b607ce05a29",
-          "sha1": "d9b73be4eee865155a5de8a2c7285382184566e9",
-          "md5": "556f0b10b5afb0305bc116647ca6783c"
+          "size": 18557,
+          "sha512": "c9b4ed5c77ea38b492713a54304e1295636ad2aaaaa9d6bcfabf7ff9d9c7d3cb260a2748ad7fd065e859484b98801561bf3ee455a9d7afbcd73a721943dca0f5",
+          "sha256": "0693a05128dd37b3fa0dceaf0ee3a94595e00f25b07fb51a49d571479eb53999",
+          "sha1": "cb0d97e7c7c2a9c299ca5230d7620512455c1bdc",
+          "md5": "05d13f589634aef349727e054ca43da0"
         }
       ]
     },
@@ -116,10 +116,10 @@
           "name": "nova-cdn-edge-javadoc.jar",
           "url": "nova-cdn-edge-javadoc.jar",
           "size": 413294,
-          "sha512": "a225734ff58c7b607d264e18fb24473340e6654728dbf1d76dda5f55a4799496dc7569733bab437688e08bbf2e72e19475b6567ab764ff715228732b19b7759e",
-          "sha256": "7cda99d8e3d73ef67c60ba20c9663e84ee96ed4b190abf3b89009583ff419726",
-          "sha1": "06fd71774417e2ab9016014a93f53745015fead7",
-          "md5": "2ed986c3a96bef377b7c8bebc3949c6a"
+          "sha512": "31e324040dcc5106eed0c4449231b196c9cf4caad2c52f69540174cd44acd2c762c4114c082f333b1842a4d44650a6ecb47e02390820249b6c906841699e001e",
+          "sha256": "4f16b77723abcb55b162994383f07f629904f6f1929ec3a19555df13082eed7a",
+          "sha1": "44dc2b67f3620f78e1a3f8a9164bdd94799d11ae",
+          "md5": "03de6ae4e93ff054aac826bf2d1c69b5"
         }
       ]
     }
