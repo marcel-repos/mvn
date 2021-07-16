@@ -14,17 +14,6 @@
   <scm>
     <url>https://github.com/getnova/framework</url>
   </scm>
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-dependencies</artifactId>
-        <version>2.4.3</version>
-        <type>pom</type>
-        <scope>import</scope>
-      </dependency>
-    </dependencies>
-  </dependencyManagement>
   <dependencies>
     <dependency>
       <groupId>net.getnova.framework</groupId>
@@ -46,14 +35,14 @@
     <nebula_Built_Status>integration</nebula_Built_Status>
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
-    <nebula_Build_Date>2021-07-13_16:31:35</nebula_Build_Date>
+    <nebula_Build_Date>2021-07-16_15:49:57</nebula_Build_Date>
     <nebula_Gradle_Version>7.1.1</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-cdn</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/getnova/framework</nebula_Module_Origin>
-    <nebula_Change>ae6d836</nebula_Change>
-    <nebula_Full_Change>ae6d836479468cbc72f6220633a8259e6d043f1f</nebula_Full_Change>
+    <nebula_Change>f2a5b9a</nebula_Change>
+    <nebula_Full_Change>f2a5b9a840eac691fa45639ea8b67539f64a08d4</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
-    <nebula_Build_Host>fv-az96-512</nebula_Build_Host>
+    <nebula_Build_Host>fv-az136-121</nebula_Build_Host>
     <nebula_Build_Job>LOCAL</nebula_Build_Job>
     <nebula_Build_Number>LOCAL</nebula_Build_Number>
     <nebula_Build_Id>LOCAL</nebula_Build_Id>
@@ -64,4 +53,15 @@
     <nebula_X_Compile_Target_JDK>11</nebula_X_Compile_Target_JDK>
     <nebula_X_Compile_Source_JDK>11</nebula_X_Compile_Source_JDK>
   </properties>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>2.4.3</version>
+        <scope>import</scope>
+        <type>pom</type>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
 </project>
