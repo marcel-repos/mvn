@@ -36,11 +36,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 16230,
-          "sha512": "54b3edd3a4421ee7823758892205d1a42e50795f0ab81245a28f7b963cdb46eb0da9f640e5046bb1fb334604cd9d82172ae5cdd29c0e8f2e248e715684d7a039",
-          "sha256": "dedb9ed12ca2c3c282814e75c5905577997159048cc4b1f9536bc52f6b08283b",
-          "sha1": "e266190371e8302514cf9a4f5f24638665e04d93",
-          "md5": "653ffe44d4f4c43d3c65ed90bf1328c0"
+          "size": 16229,
+          "sha512": "3ca0712bb6a7e84e7d919c05200b6646f392c36b997ee4d4238a82c1bbbf08b199fc61b7c0e3c44ec8505523cd1df8e1515ab6d8877e6cfd77a1f27ecfaa46ac",
+          "sha256": "2f252a17fd7bb8050bca41edb6ca6657a4735ab0c001161e692a1b9377cf4ac4",
+          "sha1": "bc1ce5ca43725118fd2375d35372f9912e4069ca",
+          "md5": "5d914a88d4a829b5c121aebc318c0fe7"
         }
       ]
     },
@@ -73,11 +73,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 16230,
-          "sha512": "54b3edd3a4421ee7823758892205d1a42e50795f0ab81245a28f7b963cdb46eb0da9f640e5046bb1fb334604cd9d82172ae5cdd29c0e8f2e248e715684d7a039",
-          "sha256": "dedb9ed12ca2c3c282814e75c5905577997159048cc4b1f9536bc52f6b08283b",
-          "sha1": "e266190371e8302514cf9a4f5f24638665e04d93",
-          "md5": "653ffe44d4f4c43d3c65ed90bf1328c0"
+          "size": 16229,
+          "sha512": "3ca0712bb6a7e84e7d919c05200b6646f392c36b997ee4d4238a82c1bbbf08b199fc61b7c0e3c44ec8505523cd1df8e1515ab6d8877e6cfd77a1f27ecfaa46ac",
+          "sha256": "2f252a17fd7bb8050bca41edb6ca6657a4735ab0c001161e692a1b9377cf4ac4",
+          "sha1": "bc1ce5ca43725118fd2375d35372f9912e4069ca",
+          "md5": "5d914a88d4a829b5c121aebc318c0fe7"
         }
       ]
     },
@@ -94,10 +94,10 @@
           "name": "nova-data-jpa-edge-javadoc.jar",
           "url": "nova-data-jpa-edge-javadoc.jar",
           "size": 400734,
-          "sha512": "dc6cfd970588e073f8357e3029b79a09bab53a106e69c94e8cc1e0fdcdfcc9ac8a6579ecee6706331e2244072405028e5b4d342531118afded1acfb68635764f",
-          "sha256": "26a8c36a3a276bdc1768c433f7585b533ed7657b162874571ef8d4f6ca3ffcd0",
-          "sha1": "d597f43484657e907c873e53fe504f2ccd8a0ac4",
-          "md5": "2bb0febccb50e031f220b6c5e3d8fc2b"
+          "sha512": "ab2fe2440af345f89498badd9eced93682a100f2aa3485f375bb1a8434801cdfabaf786edcc6f285cdbb0b4a965fdd66a2ec28859affb49604ed7c3371bc8ebf",
+          "sha256": "36ee163aee79a7f232f1d360cc453f7967e6519c5b80d7129f5f102e482c438f",
+          "sha1": "29a3798c9e39fb987e092f605ed06c622f3c9eb1",
+          "md5": "b2c02e6574c517512a5f630cecb6ba72"
         }
       ]
     }
