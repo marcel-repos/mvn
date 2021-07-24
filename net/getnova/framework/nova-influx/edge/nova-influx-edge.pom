@@ -41,19 +41,19 @@
     <nebula_Built_Status>integration</nebula_Built_Status>
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
-    <nebula_Build_Date>2021-07-17_17:45:49</nebula_Build_Date>
+    <nebula_Build_Date>2021-07-24_10:33:35</nebula_Build_Date>
     <nebula_Gradle_Version>7.1.1</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-influx</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/getnova/framework</nebula_Module_Origin>
-    <nebula_Change>617ddb4</nebula_Change>
-    <nebula_Full_Change>617ddb47a9259111520ac19b703038268e5a8dc8</nebula_Full_Change>
+    <nebula_Change>fa02b5d</nebula_Change>
+    <nebula_Full_Change>fa02b5d686e2e0138ec0d697eb378fbd59e6b9f0</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
-    <nebula_Build_Host>fv-az119-221</nebula_Build_Host>
+    <nebula_Build_Host>fv-az213-274</nebula_Build_Host>
     <nebula_Build_Job>LOCAL</nebula_Build_Job>
     <nebula_Build_Number>LOCAL</nebula_Build_Number>
     <nebula_Build_Id>LOCAL</nebula_Build_Id>
-    <nebula_Created_By>11.0.11+9-LTS (Azul Systems, Inc.)</nebula_Created_By>
-    <nebula_Build_Java_Version>11.0.11</nebula_Build_Java_Version>
+    <nebula_Created_By>11.0.12+7-LTS (Azul Systems, Inc.)</nebula_Created_By>
+    <nebula_Build_Java_Version>11.0.12</nebula_Build_Java_Version>
     <nebula_Module_Owner></nebula_Module_Owner>
     <nebula_Module_Email></nebula_Module_Email>
     <nebula_X_Compile_Target_JDK>11</nebula_X_Compile_Target_JDK>
