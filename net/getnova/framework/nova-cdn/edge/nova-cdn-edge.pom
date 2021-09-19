@@ -35,14 +35,14 @@
     <nebula_Built_Status>integration</nebula_Built_Status>
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
-    <nebula_Build_Date>2021-09-19_19:38:16</nebula_Build_Date>
+    <nebula_Build_Date>2021-09-19_19:38:25</nebula_Build_Date>
     <nebula_Gradle_Version>7.1.1</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-cdn</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/getnova/framework</nebula_Module_Origin>
-    <nebula_Change>8e6ff83</nebula_Change>
-    <nebula_Full_Change>8e6ff8340f6e68519df57ffcaa873c4a10aa36ca</nebula_Full_Change>
+    <nebula_Change>e540c25</nebula_Change>
+    <nebula_Full_Change>e540c25d69c179f31cd9d41a587aea45679c2d5a</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
-    <nebula_Build_Host>fv-az119-869</nebula_Build_Host>
+    <nebula_Build_Host>fv-az91-355</nebula_Build_Host>
     <nebula_Build_Job>LOCAL</nebula_Build_Job>
     <nebula_Build_Number>LOCAL</nebula_Build_Number>
     <nebula_Build_Id>LOCAL</nebula_Build_Id>
