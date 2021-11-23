@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.1.1"
+      "version": "7.3"
     }
   },
   "variants": [
@@ -36,11 +36,11 @@
         {
           "name": "nova-cdn-edge.jar",
           "url": "nova-cdn-edge.jar",
-          "size": 18282,
-          "sha512": "7bdf371ded7524846712469c4a61d92bb87ac4c372b70017c74e456d396bf81a2d0e20e002c63eb14c876c854263e7dec918b61e59eef9fcc14c86f1a3873d8f",
-          "sha256": "c4c4eafb87a291c2464f1e1277ed2f0c78027f9cf5995a1d276e069af1ee5f6e",
-          "sha1": "8beb860f2ed93b6f3c1e50b3fe8349c7a00245f3",
-          "md5": "76899c754420f72785d7c1f37dae23d2"
+          "size": 18272,
+          "sha512": "98bd09a149e208b3bed568b0e36080e8948fe46f7eb65f5a066854b201e269114153782c0c62558a70d9d697d1a35f733202c23a76a8bfbbd244e5c5749c000e",
+          "sha256": "dcac7662702582b2b272a554e03d518a878a2ee358543757c8980d07aa6924ae",
+          "sha1": "cd8689540ac88928ef587b48f4aa2400eb4f08f7",
+          "md5": "3b60841df49f37cad10a9fa409ad900f"
         }
       ]
     },
@@ -58,7 +58,7 @@
           "group": "org.slf4j",
           "module": "slf4j-api",
           "version": {
-            "requires": "1.7.30"
+            "requires": "1.7.32"
           }
         },
         {
@@ -73,11 +73,11 @@
         {
           "name": "nova-cdn-edge.jar",
           "url": "nova-cdn-edge.jar",
-          "size": 18282,
-          "sha512": "7bdf371ded7524846712469c4a61d92bb87ac4c372b70017c74e456d396bf81a2d0e20e002c63eb14c876c854263e7dec918b61e59eef9fcc14c86f1a3873d8f",
-          "sha256": "c4c4eafb87a291c2464f1e1277ed2f0c78027f9cf5995a1d276e069af1ee5f6e",
-          "sha1": "8beb860f2ed93b6f3c1e50b3fe8349c7a00245f3",
-          "md5": "76899c754420f72785d7c1f37dae23d2"
+          "size": 18272,
+          "sha512": "98bd09a149e208b3bed568b0e36080e8948fe46f7eb65f5a066854b201e269114153782c0c62558a70d9d697d1a35f733202c23a76a8bfbbd244e5c5749c000e",
+          "sha256": "dcac7662702582b2b272a554e03d518a878a2ee358543757c8980d07aa6924ae",
+          "sha1": "cd8689540ac88928ef587b48f4aa2400eb4f08f7",
+          "md5": "3b60841df49f37cad10a9fa409ad900f"
         }
       ]
     },
@@ -93,11 +93,11 @@
         {
           "name": "nova-cdn-edge-javadoc.jar",
           "url": "nova-cdn-edge-javadoc.jar",
-          "size": 413287,
-          "sha512": "9410754cfd1750625700de170277792ad0803016e78955de7c03a8dff7d997a6daaad5b1699570a6e5ef15d338492b16ed2c76bff832759e49b79e5abe8db9d2",
-          "sha256": "966420cf46c909b7c8fc617dc143a385921f5aca5c13e74fe42d66d7f5682959",
-          "sha1": "b9d4f57566e9679ee41ac2eea07692279c38222b",
-          "md5": "236b7d8004fbacd7795647d1cdb284a5"
+          "size": 413236,
+          "sha512": "c6e3536001d51a6beef329fbe66d5df46d50445fbfea16d14889f2e679779fbe7f8f6463d2bbf25b37c557f173182bbb393f9e92929d99bf95baf1c4d232681e",
+          "sha256": "93bb2ce648071b0d8a308cd021997b8f122e97031e95ce743acbb40c4865c9cb",
+          "sha1": "a98eeb43b49cf908827ef2a51d8dae3318aab601",
+          "md5": "d702ade9a40d2657d123be02810ae9ec"
         }
       ]
     }
