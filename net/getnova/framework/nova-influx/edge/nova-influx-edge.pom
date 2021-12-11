@@ -41,14 +41,14 @@
     <nebula_Built_Status>integration</nebula_Built_Status>
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
-    <nebula_Build_Date>2021-12-09_12:39:09</nebula_Build_Date>
+    <nebula_Build_Date>2021-12-11_15:06:17</nebula_Build_Date>
     <nebula_Gradle_Version>7.3</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-influx</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/getnova/framework</nebula_Module_Origin>
-    <nebula_Change>022722b</nebula_Change>
-    <nebula_Full_Change>022722bb594fa1c27aafd717e5e6518e1e8f55ec</nebula_Full_Change>
+    <nebula_Change>b6c46bd</nebula_Change>
+    <nebula_Full_Change>b6c46bd24546803cdccd4167ca74ee04cdaa5aba</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
-    <nebula_Build_Host>fv-az214-893</nebula_Build_Host>
+    <nebula_Build_Host>fv-az208-96</nebula_Build_Host>
     <nebula_Build_Job>LOCAL</nebula_Build_Job>
     <nebula_Build_Number>LOCAL</nebula_Build_Number>
     <nebula_Build_Id>LOCAL</nebula_Build_Id>
