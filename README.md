@@ -1,4 +1,4 @@
-# Nova Project Maven Reposetory
+# Personal Maven Package Repository 
 
 ## Use
 ```groovy
