@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 11,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -43,11 +43,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 44612,
-          "sha512": "54b6ebf712c1a78f55bd85831101c6a08d270b98a4f0a04772d806337f49db4df389eb1578205e28826b7172c8fcf60a432ef9c12fbc2a30cc453cedf5cc4802",
-          "sha256": "e1b06a56ecce9e8d6b1ee0970a92181691e7b8e204698c7e9bf22e33a9eb980b",
-          "sha1": "b3b6786c802f8793a293aebd509f83525c4f9294",
-          "md5": "8879b07c832d40489d931efe41531fa3"
+          "size": 44873,
+          "sha512": "9f7a0e775bbf3bb68c2ccd8dc5c7590fb3f3d36546b71da0940983af0437f6800c52e0685c1da8fdb81b069bda5aeb2bfeb7772995094ad09f340958b06d4a8a",
+          "sha256": "15b85e43da6d16b343041d01f123bf2f43c050c46f430dd561ae5919bfb52ff3",
+          "sha1": "bcb0ec428f0ddc977ce2c687d8589fd089966697",
+          "md5": "494b3d6bc40fae0b13b9c370f41f6c96"
         }
       ]
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 11,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -87,11 +87,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 44612,
-          "sha512": "54b6ebf712c1a78f55bd85831101c6a08d270b98a4f0a04772d806337f49db4df389eb1578205e28826b7172c8fcf60a432ef9c12fbc2a30cc453cedf5cc4802",
-          "sha256": "e1b06a56ecce9e8d6b1ee0970a92181691e7b8e204698c7e9bf22e33a9eb980b",
-          "sha1": "b3b6786c802f8793a293aebd509f83525c4f9294",
-          "md5": "8879b07c832d40489d931efe41531fa3"
+          "size": 44873,
+          "sha512": "9f7a0e775bbf3bb68c2ccd8dc5c7590fb3f3d36546b71da0940983af0437f6800c52e0685c1da8fdb81b069bda5aeb2bfeb7772995094ad09f340958b06d4a8a",
+          "sha256": "15b85e43da6d16b343041d01f123bf2f43c050c46f430dd561ae5919bfb52ff3",
+          "sha1": "bcb0ec428f0ddc977ce2c687d8589fd089966697",
+          "md5": "494b3d6bc40fae0b13b9c370f41f6c96"
         }
       ]
     },
@@ -107,11 +107,11 @@
         {
           "name": "nova-influx-edge-javadoc.jar",
           "url": "nova-influx-edge-javadoc.jar",
-          "size": 455492,
-          "sha512": "a9c05eabb17c28b5cbf99babeb364929b6cb92c23652408d3940b9e712fdaf0a1958a5d9e6211e3955cf6023de0d04de2206927431a0fdf9e1ef1c5d2ec00db6",
-          "sha256": "3ab08695cc856bd0ff0729e44bc30884a45384d11bf1f93bb5b1704e72817b28",
-          "sha1": "fc848da5f76a2a3f40b6309ffc2379b4d08d1f41",
-          "md5": "a7fb4afa8133bb59c60b5491ca04a937"
+          "size": 177700,
+          "sha512": "97bd03470f4e1f1875797caa0a10cddd6e6964210bf0cb8ca5a9d6f1b0e09db57bb928688d5bbcb98dcffc97fb2edbef3c282ced995c567edcb2a3b63f15a18e",
+          "sha256": "bcb849b39e7d589efd761b58efcf317b69c88ccbabb2e648270dc2f19b531e26",
+          "sha1": "46314d69a5fd8d1f991a55ea446cbe9431fc411f",
+          "md5": "2d3f9e9d12a2b94c07d8fb1019760609"
         }
       ]
     }
