@@ -1,0 +1,119 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.m4rc3l.nova",
+    "module": "nova-influx",
+    "version": "3.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-webflux",
+          "version": {
+            "requires": "2.6.0"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-actuator",
+          "version": {
+            "requires": "2.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-influx-3.0.1.jar",
+          "url": "nova-influx-3.0.1.jar",
+          "size": 44881,
+          "sha512": "c6f7492374da0b159ea92f7a8f60fb7436505e4d2871e3ed7af929d273b1e80696753b311ae8d529551d82e75b2650727fbab8dd39f50e21a0a24b9b227abcd4",
+          "sha256": "c948621a40c03d36a725655b2da1bebb6d7275785ef8fdead3044ec64962fffa",
+          "sha1": "c2a7c54bc8d52016c7440a53cd9872deee998cc6",
+          "md5": "9f2d6acb1839013d2d47dcb093a65c18"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.32"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-webflux",
+          "version": {
+            "requires": "2.6.0"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-actuator",
+          "version": {
+            "requires": "2.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-influx-3.0.1.jar",
+          "url": "nova-influx-3.0.1.jar",
+          "size": 44881,
+          "sha512": "c6f7492374da0b159ea92f7a8f60fb7436505e4d2871e3ed7af929d273b1e80696753b311ae8d529551d82e75b2650727fbab8dd39f50e21a0a24b9b227abcd4",
+          "sha256": "c948621a40c03d36a725655b2da1bebb6d7275785ef8fdead3044ec64962fffa",
+          "sha1": "c2a7c54bc8d52016c7440a53cd9872deee998cc6",
+          "md5": "9f2d6acb1839013d2d47dcb093a65c18"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-influx-3.0.1-javadoc.jar",
+          "url": "nova-influx-3.0.1-javadoc.jar",
+          "size": 177772,
+          "sha512": "d155734b47cc3300be0358b89854d222a4aae0fe8dea2a7efbb7e0079401b53d619ed31074ec392c3eac160a608c6de307f5db566b33d96cecaad73baa77f29f",
+          "sha256": "8dce44c1994a6e369fffdb6c4c2e5b5afd8e8dfd96978471d8c31c3d77564f39",
+          "sha1": "9bdaa33d3f7c91a17022c13b547a19dee71d8ec6",
+          "md5": "3425c3fab94861d2b4a4930d9fcc1118"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.m4rc3l.nova",
+    "module": "nova-data-jpa",
+    "version": "3.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-data-jpa-3.0.1.jar",
+          "url": "nova-data-jpa-3.0.1.jar",
+          "size": 15879,
+          "sha512": "4a235a0cfa2a55d5301ac219087c9060c8a2d29fb6e3363bee40b1eb958df483f38f587225354241cbfdf88190d9ef3241832e1f0b2fdf13b19c35d9b4c153dd",
+          "sha256": "01744a59f3fcb7b951819a2e354848659156a21d783d2b924ae00f6f86141902",
+          "sha1": "6ab4e80739402ca5b5389c873235f68002e7f736",
+          "md5": "1e1f79de2d55cc88208d86a93baeacb7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.32"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-data-jpa-3.0.1.jar",
+          "url": "nova-data-jpa-3.0.1.jar",
+          "size": 15879,
+          "sha512": "4a235a0cfa2a55d5301ac219087c9060c8a2d29fb6e3363bee40b1eb958df483f38f587225354241cbfdf88190d9ef3241832e1f0b2fdf13b19c35d9b4c153dd",
+          "sha256": "01744a59f3fcb7b951819a2e354848659156a21d783d2b924ae00f6f86141902",
+          "sha1": "6ab4e80739402ca5b5389c873235f68002e7f736",
+          "md5": "1e1f79de2d55cc88208d86a93baeacb7"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-data-jpa-3.0.1-javadoc.jar",
+          "url": "nova-data-jpa-3.0.1-javadoc.jar",
+          "size": 123642,
+          "sha512": "e2ea15737bb0495dc8c24137b1a13ba471558821dce28d79bf26a021686a955c94166d0b11d65bdcb7cb8617f321d6be42ca40424a11626edc913b85720a38a5",
+          "sha256": "ede1284a4c41a9b3b434b281fd7bf0964381ce3c28f2f9916388c369c7f4f424",
+          "sha1": "d8a8807b6bac418fd60643103a5e8ab3451f4693",
+          "md5": "797f8a6f4da0c19185b05a7f21dadfbe"
+        }
+      ]
+    }
+  ]
+}
