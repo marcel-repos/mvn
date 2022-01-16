@@ -3,13 +3,13 @@
   <groupId>de.m4rc3l.nova</groupId>
   <artifactId>nova-influx</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>edge</latest>
+    <release>edge</release>
     <versions>
       <version>edge</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
     </versions>
-    <lastUpdated>20211228130000</lastUpdated>
+    <lastUpdated>20220116191528</lastUpdated>
   </versioning>
 </metadata>
