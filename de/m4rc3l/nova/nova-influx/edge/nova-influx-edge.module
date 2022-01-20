@@ -44,10 +44,10 @@
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
           "size": 44875,
-          "sha512": "99145e7f1d04feb79226e97a85cfe1486f82b841c4453fadb15a4eb69e3ce425b2016843a4d24d2a511c94ccffc8e58966533c20c384bd3a027930f19f6fd30b",
-          "sha256": "5d9c2055857a8146d8f97c87bffdcfdc6579187fa4f82ae414155840e0c79800",
-          "sha1": "15a1b4dffdff229876d54c6668932e55dd3cf26a",
-          "md5": "2089b554224575536d3ba32d19b0820e"
+          "sha512": "a8b681087e7dcbc56b6f7442f95408199a3a425c03efa952252b2bba285d4e68b825f98706be6bd688863a1a453cc1c8ea6600455061f0881deb73d040381ea7",
+          "sha256": "0a911478e22b630500b3aa2d611954496c1bc79e1c7c25b0885c2b2d17029ca2",
+          "sha1": "cc69f4718a4c38ec7455ee8d6f2b37ef1d41d56b",
+          "md5": "604e0c0871c55efa7275d90ed0bb4c77"
         }
       ]
     },
@@ -88,10 +88,10 @@
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
           "size": 44875,
-          "sha512": "99145e7f1d04feb79226e97a85cfe1486f82b841c4453fadb15a4eb69e3ce425b2016843a4d24d2a511c94ccffc8e58966533c20c384bd3a027930f19f6fd30b",
-          "sha256": "5d9c2055857a8146d8f97c87bffdcfdc6579187fa4f82ae414155840e0c79800",
-          "sha1": "15a1b4dffdff229876d54c6668932e55dd3cf26a",
-          "md5": "2089b554224575536d3ba32d19b0820e"
+          "sha512": "a8b681087e7dcbc56b6f7442f95408199a3a425c03efa952252b2bba285d4e68b825f98706be6bd688863a1a453cc1c8ea6600455061f0881deb73d040381ea7",
+          "sha256": "0a911478e22b630500b3aa2d611954496c1bc79e1c7c25b0885c2b2d17029ca2",
+          "sha1": "cc69f4718a4c38ec7455ee8d6f2b37ef1d41d56b",
+          "md5": "604e0c0871c55efa7275d90ed0bb4c77"
         }
       ]
     },
@@ -107,11 +107,11 @@
         {
           "name": "nova-influx-edge-javadoc.jar",
           "url": "nova-influx-edge-javadoc.jar",
-          "size": 177699,
-          "sha512": "4ef2660bdaf6879580d681906b2086425a0cae860065bd6d55b199b854bbfc9dfdbeb58a76436de90ce50614012a5e56a35f5a1a6140824c7ace197712cb0399",
-          "sha256": "dc6e3941bf21a213ba466cf10fb465e3cf9c47615282d0eb00048482bd7ac693",
-          "sha1": "8a0c10f6c1f5ccb12c3d12cd0505c682cf73c656",
-          "md5": "0ab84a4e9b9c1d4c77fd25b84c021d5c"
+          "size": 177701,
+          "sha512": "b11f6c0b93f529b0c08979e2e58a1fa77ade7b4aab86ecbf6d9713e87b726c69e97f791a502755dbc789747154a1729145318d3b58be96aad1abccf57f2c071b",
+          "sha256": "7b2759eac2571a2ab1d30f7943e1f30eaef8c6fb44562054246b6c9f1bcdb3a6",
+          "sha1": "d913d9a3c14ce933a650760ec36c68247c488811",
+          "md5": "bf603b334754a04b33e69cf0f483b29d"
         }
       ]
     }
