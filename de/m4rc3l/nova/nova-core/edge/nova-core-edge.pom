@@ -18,19 +18,19 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot</artifactId>
-      <version>2.6.0</version>
+      <version>2.6.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.13.0</version>
+      <version>2.13.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
-      <version>1.7.32</version>
+      <version>1.7.36</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
@@ -41,14 +41,14 @@
     <nebula_Built_Status>integration</nebula_Built_Status>
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
-    <nebula_Build_Date>2022-02-19_09:04:22</nebula_Build_Date>
+    <nebula_Build_Date>2022-02-25_09:23:24</nebula_Build_Date>
     <nebula_Gradle_Version>7.3</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-core</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/MarcelCoding/nova</nebula_Module_Origin>
-    <nebula_Change>048e265</nebula_Change>
-    <nebula_Full_Change>048e2656e11216a347707f8ad8972a97dd8030b0</nebula_Full_Change>
+    <nebula_Change>7bf41d8</nebula_Change>
+    <nebula_Full_Change>7bf41d8c7abe34fbaf8cbf993c662b2917ca641e</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
-    <nebula_Build_Host>fv-az182-629</nebula_Build_Host>
+    <nebula_Build_Host>fv-az269-986</nebula_Build_Host>
     <nebula_Build_Job>LOCAL</nebula_Build_Job>
     <nebula_Build_Number>LOCAL</nebula_Build_Number>
     <nebula_Build_Id>LOCAL</nebula_Build_Id>
@@ -64,7 +64,7 @@
       <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-dependencies</artifactId>
-        <version>2.6.0</version>
+        <version>2.6.4</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>

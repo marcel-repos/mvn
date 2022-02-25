@@ -28,14 +28,14 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-webflux",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.6.4"
           }
         },
         {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-actuator",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.6.4"
           }
         }
       ],
@@ -43,11 +43,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 44873,
-          "sha512": "28d202ef1e954111f4fc45a04bb762bd1dd2249023983b7f5cf38f16a379500361699d3a9b6e459f249009f16b03262c05ec6fc844fc09b318331b40ec76e840",
-          "sha256": "4f43f5145197e66afc807b08418e3cf3b46e8d9d3b94c0f029a490ed485b5522",
-          "sha1": "36352dc4501db924ee9adc451e1a84cfe625b779",
-          "md5": "67a030ac5dcf91add4971804a441637f"
+          "size": 44875,
+          "sha512": "73490c038b7f36d47a93aa860fefc862a9fa19d11cf971faefba1093c94a2afd0912b23d7f5dccf2f1132183030b5b99141c7e46c51a8189768b9dbc7b96c039",
+          "sha256": "2786e0a6a2bbfa2e2e39ff4cc48db040aa731990f10f33d549ce125a3cbbd8b6",
+          "sha1": "014e8afcfd3e7d0c82332d42e430b8c30c694d65",
+          "md5": "f02a8adfe7c580d4315ae0e6518e073a"
         }
       ]
     },
@@ -65,21 +65,21 @@
           "group": "org.slf4j",
           "module": "slf4j-api",
           "version": {
-            "requires": "1.7.32"
+            "requires": "1.7.36"
           }
         },
         {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-webflux",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.6.4"
           }
         },
         {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-actuator",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.6.4"
           }
         }
       ],
@@ -87,11 +87,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 44873,
-          "sha512": "28d202ef1e954111f4fc45a04bb762bd1dd2249023983b7f5cf38f16a379500361699d3a9b6e459f249009f16b03262c05ec6fc844fc09b318331b40ec76e840",
-          "sha256": "4f43f5145197e66afc807b08418e3cf3b46e8d9d3b94c0f029a490ed485b5522",
-          "sha1": "36352dc4501db924ee9adc451e1a84cfe625b779",
-          "md5": "67a030ac5dcf91add4971804a441637f"
+          "size": 44875,
+          "sha512": "73490c038b7f36d47a93aa860fefc862a9fa19d11cf971faefba1093c94a2afd0912b23d7f5dccf2f1132183030b5b99141c7e46c51a8189768b9dbc7b96c039",
+          "sha256": "2786e0a6a2bbfa2e2e39ff4cc48db040aa731990f10f33d549ce125a3cbbd8b6",
+          "sha1": "014e8afcfd3e7d0c82332d42e430b8c30c694d65",
+          "md5": "f02a8adfe7c580d4315ae0e6518e073a"
         }
       ]
     },
@@ -107,11 +107,11 @@
         {
           "name": "nova-influx-edge-javadoc.jar",
           "url": "nova-influx-edge-javadoc.jar",
-          "size": 177695,
-          "sha512": "988f627ae11c43c46362b76e2c37d5aa2a65acfb209b60e1cff29848de0827e9ac2061bb387f90a69db09b6ab66988d811e41e8bd3b20e7d57749f18961dc0c2",
-          "sha256": "3f4eced8e1e2369f9f05a6c3deafab438c5f2dc2c6acafc6b155383eb403144b",
-          "sha1": "dee2380936c6011d55d37ac4b0e450ff408e1aa7",
-          "md5": "fa601c5b8009de503320cd53ebf64646"
+          "size": 177697,
+          "sha512": "3c7af431ff07365c0c08672077648dc8bcf7e27c32d5eec7ddb1441f231068290a2c4800ce18f4db2d496ffd148d2b53dc03eb288a5f85d5c30deee36b895a82",
+          "sha256": "a90f17fc659dd049917b1a51d28a376fd7f5afee4d9b7c382fe03f0069f2f99a",
+          "sha1": "62c1d0654abdeb4f528579dfb88382e9df394572",
+          "md5": "1b9670b71233a0dab4da53586b938a44"
         }
       ]
     }
