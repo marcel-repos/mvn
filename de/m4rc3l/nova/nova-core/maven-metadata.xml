@@ -3,8 +3,8 @@
   <groupId>de.m4rc3l.nova</groupId>
   <artifactId>nova-core</artifactId>
   <versioning>
-    <latest>3.0.4</latest>
-    <release>3.0.4</release>
+    <latest>edge</latest>
+    <release>edge</release>
     <versions>
       <version>edge</version>
       <version>3.0.0</version>
@@ -13,6 +13,6 @@
       <version>3.0.3</version>
       <version>3.0.4</version>
     </versions>
-    <lastUpdated>20220314211435</lastUpdated>
+    <lastUpdated>20220314211818</lastUpdated>
   </versioning>
 </metadata>
