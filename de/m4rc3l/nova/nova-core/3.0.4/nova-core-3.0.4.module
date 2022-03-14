@@ -1,0 +1,119 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.m4rc3l.nova",
+    "module": "nova-core",
+    "version": "3.0.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot",
+          "version": {
+            "requires": "2.6.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.13.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-core-3.0.4.jar",
+          "url": "nova-core-3.0.4.jar",
+          "size": 43963,
+          "sha512": "cf0240057c350e0903bdeefbf3cd32a3ebae30a0ed46f28a88e8e7b37a364feed4dcaea9c1118c5156dce6b1bf5c2dc0bb79540981fa01140a45601726d4958d",
+          "sha256": "b45cfdf3fcd7ec3a6eb5e321c79d6587f46a1441107288d5a59dd26297d3e2a7",
+          "sha1": "fb76fc047a1d2abf9e362c0c44c4023ff301f7f2",
+          "md5": "b52791f693b7608cb3742457ee760d33"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.36"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot",
+          "version": {
+            "requires": "2.6.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.13.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nova-core-3.0.4.jar",
+          "url": "nova-core-3.0.4.jar",
+          "size": 43963,
+          "sha512": "cf0240057c350e0903bdeefbf3cd32a3ebae30a0ed46f28a88e8e7b37a364feed4dcaea9c1118c5156dce6b1bf5c2dc0bb79540981fa01140a45601726d4958d",
+          "sha256": "b45cfdf3fcd7ec3a6eb5e321c79d6587f46a1441107288d5a59dd26297d3e2a7",
+          "sha1": "fb76fc047a1d2abf9e362c0c44c4023ff301f7f2",
+          "md5": "b52791f693b7608cb3742457ee760d33"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-core-3.0.4-javadoc.jar",
+          "url": "nova-core-3.0.4-javadoc.jar",
+          "size": 211522,
+          "sha512": "0b0f01fbe5570df568a14d1f7fda8a658686ed2c0ebdc542ffec9373d8d8355841ab0bd5616bd3121e022ac361047d1266037844e7e4246f2a5d6f489a4e0e55",
+          "sha256": "b509d1e9542c2afa1999d4cb492b6381583ebc6e3685cdda585ba89c43d014ef",
+          "sha1": "79cdcc1878d000beec1369ad551eeea7b5fdb398",
+          "md5": "738a96a65988e7a63799df0d48b1b00b"
+        }
+      ]
+    }
+  ]
+}
