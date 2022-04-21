@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 18,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -28,7 +28,7 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-data-jpa",
           "version": {
-            "requires": "2.6.4"
+            "requires": "2.6.6"
           }
         }
       ],
@@ -36,11 +36,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 15878,
-          "sha512": "f14504846b1b7de72c4de3d139734b651609b6d7b77f5356a2a1d58c2e325c1635046e73c5ddcafc005532c00ca63ba9142300e65e65592a8554296c3294fb77",
-          "sha256": "c0f68fa5ba92e2135178a462b7a297b446e6d13abc5505db616809866fe25bef",
-          "sha1": "63844c91a75782e57e82140f5fd4f4a976620cc0",
-          "md5": "9b8712ba718dc5ed158d176200ef911e"
+          "size": 15976,
+          "sha512": "94e751a3ed16762b584f9b2eb49edeca6df0febc2ed869bc2e64934d157ac3adfe804c59985bc1081eef7b951bfb64277048266313583129bbd66a004fea0870",
+          "sha256": "c4d2217289ba4e0345f8554997add550c9d949304e748078aa324cbd41cf227c",
+          "sha1": "6572f3b0f0b456a965090291e846e060aa5b1354",
+          "md5": "0d0a047f01cdef9369f3c03662ef9a52"
         }
       ]
     },
@@ -49,7 +49,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 18,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -65,7 +65,7 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-data-jpa",
           "version": {
-            "requires": "2.6.4"
+            "requires": "2.6.6"
           }
         }
       ],
@@ -73,11 +73,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 15878,
-          "sha512": "f14504846b1b7de72c4de3d139734b651609b6d7b77f5356a2a1d58c2e325c1635046e73c5ddcafc005532c00ca63ba9142300e65e65592a8554296c3294fb77",
-          "sha256": "c0f68fa5ba92e2135178a462b7a297b446e6d13abc5505db616809866fe25bef",
-          "sha1": "63844c91a75782e57e82140f5fd4f4a976620cc0",
-          "md5": "9b8712ba718dc5ed158d176200ef911e"
+          "size": 15976,
+          "sha512": "94e751a3ed16762b584f9b2eb49edeca6df0febc2ed869bc2e64934d157ac3adfe804c59985bc1081eef7b951bfb64277048266313583129bbd66a004fea0870",
+          "sha256": "c4d2217289ba4e0345f8554997add550c9d949304e748078aa324cbd41cf227c",
+          "sha1": "6572f3b0f0b456a965090291e846e060aa5b1354",
+          "md5": "0d0a047f01cdef9369f3c03662ef9a52"
         }
       ]
     },
@@ -93,11 +93,31 @@
         {
           "name": "nova-data-jpa-edge-javadoc.jar",
           "url": "nova-data-jpa-edge-javadoc.jar",
-          "size": 123618,
-          "sha512": "0403ffe1e5d54c1285c6e2b77567a7c6c0a144d7169069f03d53b09d4ea4ee230e1e1edd4a81d1c1c795e05ed05d3db7724dc5e40dfc9e714451267c4a6563fe",
-          "sha256": "28f53c73601e82c17367b9acfd48792420b82c12e1b31fd5d02b129139d978ac",
-          "sha1": "d9e3d827477da21e8064e7a9f5195cdafbc7e4cb",
-          "md5": "ac79891f43f272c1fd295316d757ca59"
+          "size": 126540,
+          "sha512": "cbf061f1483ed3afab1cc52c7f7d53a803c0c8f254b3e3d281aaa7a33e53758d6b66e79e7c8aa281be562c5df4ab0a42368bb8aa7f4d900fe0876d79afc75671",
+          "sha256": "2e53e50bcc4e7d956c31116aa70309f9d4126b2c9ca9f36cd2e52775c738fa67",
+          "sha1": "58739f5710a925fdb7d07b9f9ea764e23bbc60a3",
+          "md5": "b3a9e396fee093c5368d24256069d060"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nova-data-jpa-edge-sources.jar",
+          "url": "nova-data-jpa-edge-sources.jar",
+          "size": 3433,
+          "sha512": "f2555a3063d18ecd11d77e7e8810ac773d01c4b29b3d4f3af70ff1e20f9404e86d0fee158fbe220d5b9575cafd97983d3de104467628cf4a84c2f10ae993b13e",
+          "sha256": "6da167e1a36752ab149a864647d97845ede0c27afe1235a0ae4c9ab5cbd893ec",
+          "sha1": "5a892a2dddad6e63b7514a2db7a776cbcb5a97da",
+          "md5": "da53380bacee055c35d540eab851176c"
         }
       ]
     }
