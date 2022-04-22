@@ -18,13 +18,13 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot</artifactId>
-      <version>2.6.6</version>
+      <version>2.6.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.13.2.2</version>
+      <version>2.13.2.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -42,19 +42,19 @@
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
     <nebula_Build_Timezone>Etc/UTC</nebula_Build_Timezone>
-    <nebula_Build_Date_UTC>2022-04-22T00:17:21.943638861Z</nebula_Build_Date_UTC>
-    <nebula_Build_Date>2022-04-22_00:17:21</nebula_Build_Date>
+    <nebula_Build_Date_UTC>2022-04-22T00:18:46.591050007Z</nebula_Build_Date_UTC>
+    <nebula_Build_Date>2022-04-22_00:18:46</nebula_Build_Date>
     <nebula_Gradle_Version>7.3</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-core</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/MarcelCoding/nova</nebula_Module_Origin>
-    <nebula_Change>a38d744</nebula_Change>
-    <nebula_Full_Change>a38d744dddcd04f409202a76c60f476a2467ab1b</nebula_Full_Change>
+    <nebula_Change>0f14464</nebula_Change>
+    <nebula_Full_Change>0f14464a41b2374cbbd7f8399a4e5c1a00837fe0</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
     <nebula_Build_Host>https://github.com</nebula_Build_Host>
     <nebula_Build_Job>__run_2</nebula_Build_Job>
-    <nebula_Build_Number>453</nebula_Build_Number>
-    <nebula_Build_Id>2205025386</nebula_Build_Id>
-    <nebula_Build_Url>https://github.com/MarcelCoding/nova/actions/runs/2205025386</nebula_Build_Url>
+    <nebula_Build_Number>454</nebula_Build_Number>
+    <nebula_Build_Id>2205028774</nebula_Build_Id>
+    <nebula_Build_Url>https://github.com/MarcelCoding/nova/actions/runs/2205028774</nebula_Build_Url>
     <nebula_Created_By>18+36 (Eclipse Adoptium)</nebula_Created_By>
     <nebula_X_Compile_Target_JDK>18</nebula_X_Compile_Target_JDK>
     <nebula_X_Compile_Source_JDK>18</nebula_X_Compile_Source_JDK>
@@ -67,7 +67,7 @@
       <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-dependencies</artifactId>
-        <version>2.6.6</version>
+        <version>2.6.7</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>

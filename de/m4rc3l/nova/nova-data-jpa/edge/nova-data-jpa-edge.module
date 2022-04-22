@@ -28,7 +28,7 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-data-jpa",
           "version": {
-            "requires": "2.6.6"
+            "requires": "2.6.7"
           }
         }
       ],
@@ -37,10 +37,10 @@
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
           "size": 15977,
-          "sha512": "37f90998d8ae1a45b8944fd10cc9dae5bce3f24ddc4f432480653407a43e940a61e655b6e8912aa52d9adfd50136022fca665077df7d178e5946e01183ecd3c8",
-          "sha256": "638a4dd2294c2c6ef001e5408c7e266350b1f5aec3366cd77106f66e04282eb4",
-          "sha1": "b4ecaa96acd9279f7a211630727065627e131785",
-          "md5": "4b862b27d6264a3ad32a5b7b8937b6b0"
+          "sha512": "f2379ea86dfe990ec65f669d0a9fa9a9318aaa7ee68194c94b23bfd42ca8b8e2afb6ce88a0b3b86add795335bdcbd7d328d4ac29ca555d203d43332386269b87",
+          "sha256": "081d8c37b5b104d6a93547678dfce72a3aec929348e179ba46a9e23ad38ab905",
+          "sha1": "2c76e6309b00795cae4ec966e67634a8b0af4bb4",
+          "md5": "86b7faf75870083984027a23d657f00c"
         }
       ]
     },
@@ -65,7 +65,7 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-data-jpa",
           "version": {
-            "requires": "2.6.6"
+            "requires": "2.6.7"
           }
         }
       ],
@@ -74,10 +74,10 @@
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
           "size": 15977,
-          "sha512": "37f90998d8ae1a45b8944fd10cc9dae5bce3f24ddc4f432480653407a43e940a61e655b6e8912aa52d9adfd50136022fca665077df7d178e5946e01183ecd3c8",
-          "sha256": "638a4dd2294c2c6ef001e5408c7e266350b1f5aec3366cd77106f66e04282eb4",
-          "sha1": "b4ecaa96acd9279f7a211630727065627e131785",
-          "md5": "4b862b27d6264a3ad32a5b7b8937b6b0"
+          "sha512": "f2379ea86dfe990ec65f669d0a9fa9a9318aaa7ee68194c94b23bfd42ca8b8e2afb6ce88a0b3b86add795335bdcbd7d328d4ac29ca555d203d43332386269b87",
+          "sha256": "081d8c37b5b104d6a93547678dfce72a3aec929348e179ba46a9e23ad38ab905",
+          "sha1": "2c76e6309b00795cae4ec966e67634a8b0af4bb4",
+          "md5": "86b7faf75870083984027a23d657f00c"
         }
       ]
     },
@@ -94,10 +94,10 @@
           "name": "nova-data-jpa-edge-javadoc.jar",
           "url": "nova-data-jpa-edge-javadoc.jar",
           "size": 126544,
-          "sha512": "489af97a85ed3e416c607927a51d178e60a29d0efaf12dcdca47005a97e1d296212a2484179df2c43419764a15ffd66c064ce10faeaa43f9f45131376a1bb3ba",
-          "sha256": "ecdf24673ffb99708dbe0bcdd86cc9ccaf23ee93ad2869bb096bc57eeaeaedad",
-          "sha1": "97109bac1b16a618ac413593e849796422bae461",
-          "md5": "97c7d5b1a07b375a3f5de7aa3c9f8c00"
+          "sha512": "aacb889dad6b194fe40a904dfe50e8fab6a5fe3c9ad5dae95a95351ebf388d0abc8b7dee337b0564adf03441007b389bf696e56c7ad06ad212716adea38bf45b",
+          "sha256": "50f309db2bac896a170a09cc7c0bf507687905d2349ced6a65d62f144c0b8998",
+          "sha1": "95143151db055c180bafd021a9159495ff7e33a2",
+          "md5": "5af6c4d18f04d7fa8c44b74b342b62d5"
         }
       ]
     },
@@ -114,10 +114,10 @@
           "name": "nova-data-jpa-edge-sources.jar",
           "url": "nova-data-jpa-edge-sources.jar",
           "size": 3437,
-          "sha512": "364efc6269260eadfc000ce45554f0ba4e7bfc6515eca21c001de97a06b8cf87bd7ca4f071a8153c4b27e4a3c7c88a565ac3f8970dd04950ec26d9be51fed466",
-          "sha256": "b01c3aa50f2f9345e9272fcdd2651c70260f56080307dfccc5f7553d4b5d4358",
-          "sha1": "9740c77a63cecc9450ebc0b9e185202d6475608e",
-          "md5": "ad50fc2d2549e416da438e71a1abf2ec"
+          "sha512": "873ee0363c8a2dac6da84724ff2c30297552cf633f83444ab0291bec44631ab8a8a4541b4e164393184bddc5fa385bd477845c5bd4e2e9cb2075c81048d68f5b",
+          "sha256": "a2de4902e7054dec68b709cbcc595d98a6c50c40664a56c938139ac15ea9a740",
+          "sha1": "5b2532c6e6735b9a74d8858d40838bfe89cb1708",
+          "md5": "839be5360e99fc8f1d94180b0a9477a2"
         }
       ]
     }

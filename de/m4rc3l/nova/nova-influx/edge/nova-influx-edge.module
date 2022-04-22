@@ -28,14 +28,14 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-webflux",
           "version": {
-            "requires": "2.6.6"
+            "requires": "2.6.7"
           }
         },
         {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-actuator",
           "version": {
-            "requires": "2.6.6"
+            "requires": "2.6.7"
           }
         }
       ],
@@ -44,10 +44,10 @@
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
           "size": 44976,
-          "sha512": "ac9381166b8fd4ca04ac97776cc0a222588780cd6552ab22ea24a063f6fcfd3d54671c11a1ceefdee2e3a2e2a15ec239060e78efeda71c4114876f49f446a1e9",
-          "sha256": "dcaf6d43241d72d3ba60f402a28ca3573f04901929ccf457270c467c7d3a075b",
-          "sha1": "cb9c8d4e0d8b18a3a9366eea8e64bfd50168566d",
-          "md5": "3a25d815a6c8845077d5e43bb067f28c"
+          "sha512": "b20107a6f7d824d290160c2e9fe66aceae58b5f579eb33bec7801eb2b5543526bef34bc1fd3be0255476309776e4b6626349466c576c63970c0fded0e8c6c43d",
+          "sha256": "fa020d5379b75142577b21cfc4586758565a1248c7e6313c95a303c17eb49c8c",
+          "sha1": "04a1613d1e6ed74b6a41941fc3f50182b62c2705",
+          "md5": "180fb36a9e29c640d2278fa9172ddcfd"
         }
       ]
     },
@@ -72,14 +72,14 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-webflux",
           "version": {
-            "requires": "2.6.6"
+            "requires": "2.6.7"
           }
         },
         {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-actuator",
           "version": {
-            "requires": "2.6.6"
+            "requires": "2.6.7"
           }
         }
       ],
@@ -88,10 +88,10 @@
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
           "size": 44976,
-          "sha512": "ac9381166b8fd4ca04ac97776cc0a222588780cd6552ab22ea24a063f6fcfd3d54671c11a1ceefdee2e3a2e2a15ec239060e78efeda71c4114876f49f446a1e9",
-          "sha256": "dcaf6d43241d72d3ba60f402a28ca3573f04901929ccf457270c467c7d3a075b",
-          "sha1": "cb9c8d4e0d8b18a3a9366eea8e64bfd50168566d",
-          "md5": "3a25d815a6c8845077d5e43bb067f28c"
+          "sha512": "b20107a6f7d824d290160c2e9fe66aceae58b5f579eb33bec7801eb2b5543526bef34bc1fd3be0255476309776e4b6626349466c576c63970c0fded0e8c6c43d",
+          "sha256": "fa020d5379b75142577b21cfc4586758565a1248c7e6313c95a303c17eb49c8c",
+          "sha1": "04a1613d1e6ed74b6a41941fc3f50182b62c2705",
+          "md5": "180fb36a9e29c640d2278fa9172ddcfd"
         }
       ]
     },
@@ -108,10 +108,10 @@
           "name": "nova-influx-edge-javadoc.jar",
           "url": "nova-influx-edge-javadoc.jar",
           "size": 182502,
-          "sha512": "02f2520b519817a3aa5bb77dc9291b11477e09399b576d9b1f516c22756d354e10d3e6bd397c900581d001d1db2935fd5c1f4a3cd1ffbca4c5c3c7225db49b19",
-          "sha256": "da88f5966048f218c345bd7561729edb3b75f3c801464266f12c7cb943e60c4b",
-          "sha1": "65e85172e5d0eaebd1f2f3f89bb2fae670efc28d",
-          "md5": "cacdf0664f959a04b5b914673a74ff06"
+          "sha512": "0288a27a71f547a64e91b6217d8c311cf2b2bfbf085ca17e9045c1a07c2ccdba1279ac58f9fb657c210478139bc691e25416ec6790ad98eab7ef28f0ac16f128",
+          "sha256": "0819ad483f8ce8772573a75676a6eb83a9502e9670a18a3589bef4fdf1191f5f",
+          "sha1": "c5e599ed06ba2dad0e5b23a6dbf92b9c8feb6d6f",
+          "md5": "0c21cfff0597acc7ab05b5fca9c87f7c"
         }
       ]
     },
@@ -128,10 +128,10 @@
           "name": "nova-influx-edge-sources.jar",
           "url": "nova-influx-edge-sources.jar",
           "size": 9621,
-          "sha512": "ad50cad994c932470e904616736edaec18b3485e3a055e6c5a025ddc6a05e0ea7a91903a9367d4891135b87a262697bbc9c94a6b7fa6ffaf70b4cc532b14cff5",
-          "sha256": "cbb26caec6f646fb8b1de751aab3710a5c9fdb71e55512c9d68d17f062afec54",
-          "sha1": "0649bf2f4c1b7bc81ef45e0157b0e45876530f61",
-          "md5": "af22770107bbd308edbc1c721449b548"
+          "sha512": "92c27b7b90216241a23887c7d993d6e2955964d4553026516f53679379f9c572dae6b9e1624614d1b6c4a248bb07503eb71d562bf2ebba8644e4f54312981c71",
+          "sha256": "16be2fcb1626bf501eaa978082ea5a78e8367c0f2bacf370f841c98d4dcebff0",
+          "sha1": "5e72852070b364454c14bfdaaaa0a3ec2cfa1b13",
+          "md5": "ffb5eb380ab481db7293216dad81978f"
         }
       ]
     }
