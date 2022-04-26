@@ -42,23 +42,23 @@
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
     <nebula_Build_Timezone>Etc/UTC</nebula_Build_Timezone>
-    <nebula_Build_Date_UTC>2022-04-22T00:18:47.938206273Z</nebula_Build_Date_UTC>
-    <nebula_Build_Date>2022-04-22_00:18:47</nebula_Build_Date>
+    <nebula_Build_Date_UTC>2022-04-26T09:56:39.892696706Z</nebula_Build_Date_UTC>
+    <nebula_Build_Date>2022-04-26_09:56:39</nebula_Build_Date>
     <nebula_Gradle_Version>7.3</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-influx</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/MarcelCoding/nova</nebula_Module_Origin>
-    <nebula_Change>0f14464</nebula_Change>
-    <nebula_Full_Change>0f14464a41b2374cbbd7f8399a4e5c1a00837fe0</nebula_Full_Change>
+    <nebula_Change>5745c39</nebula_Change>
+    <nebula_Full_Change>5745c39af0546934a2a58fc34cdedccf96129a48</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
     <nebula_Build_Host>https://github.com</nebula_Build_Host>
     <nebula_Build_Job>__run_2</nebula_Build_Job>
-    <nebula_Build_Number>454</nebula_Build_Number>
-    <nebula_Build_Id>2205028774</nebula_Build_Id>
-    <nebula_Build_Url>https://github.com/MarcelCoding/nova/actions/runs/2205028774</nebula_Build_Url>
-    <nebula_Created_By>18+36 (Eclipse Adoptium)</nebula_Created_By>
+    <nebula_Build_Number>456</nebula_Build_Number>
+    <nebula_Build_Id>2225883177</nebula_Build_Id>
+    <nebula_Build_Url>https://github.com/MarcelCoding/nova/actions/runs/2225883177</nebula_Build_Url>
+    <nebula_Created_By>18.0.1+10 (Eclipse Adoptium)</nebula_Created_By>
     <nebula_X_Compile_Target_JDK>18</nebula_X_Compile_Target_JDK>
     <nebula_X_Compile_Source_JDK>18</nebula_X_Compile_Source_JDK>
-    <nebula_Build_Java_Version>18</nebula_Build_Java_Version>
+    <nebula_Build_Java_Version>18.0.1</nebula_Build_Java_Version>
     <nebula_Module_Owner></nebula_Module_Owner>
     <nebula_Module_Email></nebula_Module_Email>
   </properties>
