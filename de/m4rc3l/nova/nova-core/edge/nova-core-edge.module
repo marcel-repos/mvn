@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 18,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -43,11 +43,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 44074,
-          "sha512": "6dd0e100693b984eb5b298765839ad1e8c8549af7719e24941b518d11780978e08e8278e2dc6f994b352228d4e22bfa3f3ffc00ef87499b8557c52d6dd69a99f",
-          "sha256": "7b309264124626ea2e2f08c26aeeba451c5aa6594b3acdf8881bdb7816149a72",
-          "sha1": "b5d1e0e04e6d4ffff6e32d9bc06e63a7c20090d1",
-          "md5": "5cdea9a9c1f8f17e8e62378348bdb0f7"
+          "size": 44079,
+          "sha512": "be0f2e8229e95eaccf9163d75eaf291e32b4c938d03b3a5baf26dbaaf890a9ac18adc2758cea58b0d677d31a5ab9763f4b2076cbfd7902b87e98a41051a9ba5b",
+          "sha256": "1b961808d29dfe63d558820017b59056eb8a477c8f62c2e667c69651ba64eddf",
+          "sha1": "7ae06ea4d0f702dc4a49a17e6604acb039839363",
+          "md5": "345bc9d8c7ee3761b4a9977f01709a78"
         }
       ]
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 18,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -87,11 +87,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 44074,
-          "sha512": "6dd0e100693b984eb5b298765839ad1e8c8549af7719e24941b518d11780978e08e8278e2dc6f994b352228d4e22bfa3f3ffc00ef87499b8557c52d6dd69a99f",
-          "sha256": "7b309264124626ea2e2f08c26aeeba451c5aa6594b3acdf8881bdb7816149a72",
-          "sha1": "b5d1e0e04e6d4ffff6e32d9bc06e63a7c20090d1",
-          "md5": "5cdea9a9c1f8f17e8e62378348bdb0f7"
+          "size": 44079,
+          "sha512": "be0f2e8229e95eaccf9163d75eaf291e32b4c938d03b3a5baf26dbaaf890a9ac18adc2758cea58b0d677d31a5ab9763f4b2076cbfd7902b87e98a41051a9ba5b",
+          "sha256": "1b961808d29dfe63d558820017b59056eb8a477c8f62c2e667c69651ba64eddf",
+          "sha1": "7ae06ea4d0f702dc4a49a17e6604acb039839363",
+          "md5": "345bc9d8c7ee3761b4a9977f01709a78"
         }
       ]
     },
@@ -107,11 +107,11 @@
         {
           "name": "nova-core-edge-javadoc.jar",
           "url": "nova-core-edge-javadoc.jar",
-          "size": 217574,
-          "sha512": "d0cdd01b9e4ed81b69230d1d11088b02842a00ea3ed7fa32d55cce8fa1425e7f18568054dcd3cadc6d4f454d782ec44691f10b6ac69a37365766a1f261af436e",
-          "sha256": "90545218285b9434bf76b7fa2aa66c888bf801efc866effa1fb3eb5c8d838e3f",
-          "sha1": "15f1eb9002a54561f4663e61a34242f4341c9da4",
-          "md5": "3d385a1460b9972525c79e35915a8457"
+          "size": 217578,
+          "sha512": "52ebcf41cbea09434e49ea9c6ca0d873d920ecfe4eec480c41a311438f9dc1875daa29dd33db14c40eeff953ae39bd92bf851454725cfab86cb489da2b444596",
+          "sha256": "842dc677406f418b3d37440c3f610dd7610b529054f3d7c5f4aca2db16a28568",
+          "sha1": "cae19031a42b38654ccff7392582144ac81f20df",
+          "md5": "660f27abb44e8fe14707163b806c5c76"
         }
       ]
     },
@@ -127,11 +127,11 @@
         {
           "name": "nova-core-edge-sources.jar",
           "url": "nova-core-edge-sources.jar",
-          "size": 17365,
-          "sha512": "a27df91ba03fd35ae2d660deddd04bf9f7f5dbdc39a8694080725328efd13fb9ec2768a318b740878cc805232076604f0d8245db0e4f3c873c5d794b57c9cf76",
-          "sha256": "8d94ec223e3cb7fc53bb468970cee6d97d6006538e870ef8faefcb67742134aa",
-          "sha1": "db85e85b6c5fa7f4a3757605e9deef49c1b31dcb",
-          "md5": "f7bb770323c13f9a7b7f24b3a1f7bc26"
+          "size": 17369,
+          "sha512": "d0baa945478a3c231846c8e12b3e3833149ee06f50f0f91e2633b099e64269234f0e381b133026f03d75bd80ecfc6aeb81fa912b5ce60f28b3ab88021102c2cc",
+          "sha256": "fae21d39fc9b041d518681f8a97f21cb25616e78800b7feee5a3af5a5e63d73f",
+          "sha1": "2e47ed6a11c0a503ee6adeb54c082cb2e737a6ce",
+          "md5": "ab96ac5725f84d1d00ac13428437b03e"
         }
       ]
     }

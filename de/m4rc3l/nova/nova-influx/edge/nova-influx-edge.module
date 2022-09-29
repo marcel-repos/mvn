@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 18,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -43,11 +43,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 44986,
-          "sha512": "48ce49db70fde005baadf57c04157941ebb7490b5cad626d9f770529d65304d6c791f1cdd645eddae3bddbe0232012e3c983557db156bf3eed627a78ba35d592",
-          "sha256": "b772a04785b4a1898fcd208bf02bf7667fe8e7fa4ae2ccce6da58a2dec78bc73",
-          "sha1": "7020a1467fb60da37ce608053ea6b91ebe4fd296",
-          "md5": "ab84dc760ec355abfbf60012d4724ae9"
+          "size": 44990,
+          "sha512": "47687b1d0d3ad5abe8858d51fc00db029733bcc67ccd5aa5c42baa0c78fda2500b05f2b19d368611e181640b8e31954289b175ec4ba95ddc5cf338f9db64eb16",
+          "sha256": "d67b9b9cd0414e54212e897ce6858a740499e66a1a4175ca8499bf62e877c81a",
+          "sha1": "c37fda3691553bbc0d7655cfb59aceff435e5e9e",
+          "md5": "4a11954c0a127a09c447e30f60d5123c"
         }
       ]
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 18,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -87,11 +87,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 44986,
-          "sha512": "48ce49db70fde005baadf57c04157941ebb7490b5cad626d9f770529d65304d6c791f1cdd645eddae3bddbe0232012e3c983557db156bf3eed627a78ba35d592",
-          "sha256": "b772a04785b4a1898fcd208bf02bf7667fe8e7fa4ae2ccce6da58a2dec78bc73",
-          "sha1": "7020a1467fb60da37ce608053ea6b91ebe4fd296",
-          "md5": "ab84dc760ec355abfbf60012d4724ae9"
+          "size": 44990,
+          "sha512": "47687b1d0d3ad5abe8858d51fc00db029733bcc67ccd5aa5c42baa0c78fda2500b05f2b19d368611e181640b8e31954289b175ec4ba95ddc5cf338f9db64eb16",
+          "sha256": "d67b9b9cd0414e54212e897ce6858a740499e66a1a4175ca8499bf62e877c81a",
+          "sha1": "c37fda3691553bbc0d7655cfb59aceff435e5e9e",
+          "md5": "4a11954c0a127a09c447e30f60d5123c"
         }
       ]
     },
@@ -108,10 +108,10 @@
           "name": "nova-influx-edge-javadoc.jar",
           "url": "nova-influx-edge-javadoc.jar",
           "size": 182512,
-          "sha512": "06056a8e538ba787f94d98efdf745edbb1aeeacc5302cfae5a0a0bf929ccb905b8ec9c6dc1954eed9d016deb2d0594aa4c1fe18401be71e8dcc8620bc0e50a33",
-          "sha256": "29e1f823222376b19b7e04fd16947972608435ad0c87f15d81138ad44a4eca2c",
-          "sha1": "2ffeb912d50d7e197b03baf7c17a7045373b1f77",
-          "md5": "07473f6ff1ed5b84b5ba90b9eedf13a8"
+          "sha512": "83f58ff245db3f5035c8ce9e9783b8d63f5402bc870c30ad3bc67b81616451214dd78f28a48cf9cc3774725d2759bd50201edf3dd527ff3ff48ab4caacfe48c6",
+          "sha256": "90d9a7a6a459c30904b0d35c87d53a418ac2fcfc70842e07f47e5531b974a3a8",
+          "sha1": "165ddb8e23d46872385bf70faf1439f88fea786c",
+          "md5": "5eb61b80c03399091b5a00bf62481cf3"
         }
       ]
     },
@@ -128,10 +128,10 @@
           "name": "nova-influx-edge-sources.jar",
           "url": "nova-influx-edge-sources.jar",
           "size": 9631,
-          "sha512": "332b34f67d1259ec5db4074eecd98733000a5b670da3549b70942cd91ba3b48bc7c4e1ab96ce67dbf080a0bfa7db51f2a1ac7cb59d668d5a23fd57431fd7bb80",
-          "sha256": "379b70a6b531789bf9f85b220843a0ed9714bf72698070b551c160d6e4c83837",
-          "sha1": "63c411d65f4f2e04e2230b35a7d1c31f019ebcc4",
-          "md5": "b8c2e7a5924f34033889a435f8c80549"
+          "sha512": "719a356104ac843680d03637ba0a930fcfe84a6b45e89284c55ef8ce314a1bd3e13e91d42985cee73b1e2c902d7e5d550e78359db9bbbe08ea79fb83976b8bb0",
+          "sha256": "2479ee12871c0e86c93e12c437f6eccb10e1276b54743a32674ba09680ff8737",
+          "sha1": "ab2e19213d74b12df98448c953f3816ca59d8630",
+          "md5": "a8facd6df05eef928132dab4f5033d3f"
         }
       ]
     }
