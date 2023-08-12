@@ -43,11 +43,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 44095,
-          "sha512": "11b4ed8e951d671e30782e0cc97433aff0929c7a190dcd496eca06eae7b4ce5fc659ab62005cc1964593d1de1cbca332bbf610a2cf86e0e80318e41dc9762752",
-          "sha256": "b6a7e484d0647710794d9cdbf3f73744e47d103f4962d1794f7f24ae48d2d331",
-          "sha1": "aa46d538d0f0c8b0a505c7cf765ac2aeb27db556",
-          "md5": "635aeec4e949a9b9778bf24a4b6eb572"
+          "size": 44092,
+          "sha512": "35342a104dc54231383844ec4aa35c24177a9e947b8f427e5eb0b10924b1413bb475f696eb35e775562943979dcf6126fab390fd422e351e49e741bd77f0957e",
+          "sha256": "ce63acb6100ab8d5583095af1ed707b3cad0fa5b816c9c0776bdb5a307ab5907",
+          "sha1": "ae8ed0823ae73f17135138ba3b7c7a66ecc7a859",
+          "md5": "68bd97336e804ea59bf2d29f9ebe2fd9"
         }
       ]
     },
@@ -87,11 +87,11 @@
         {
           "name": "nova-core-edge.jar",
           "url": "nova-core-edge.jar",
-          "size": 44095,
-          "sha512": "11b4ed8e951d671e30782e0cc97433aff0929c7a190dcd496eca06eae7b4ce5fc659ab62005cc1964593d1de1cbca332bbf610a2cf86e0e80318e41dc9762752",
-          "sha256": "b6a7e484d0647710794d9cdbf3f73744e47d103f4962d1794f7f24ae48d2d331",
-          "sha1": "aa46d538d0f0c8b0a505c7cf765ac2aeb27db556",
-          "md5": "635aeec4e949a9b9778bf24a4b6eb572"
+          "size": 44092,
+          "sha512": "35342a104dc54231383844ec4aa35c24177a9e947b8f427e5eb0b10924b1413bb475f696eb35e775562943979dcf6126fab390fd422e351e49e741bd77f0957e",
+          "sha256": "ce63acb6100ab8d5583095af1ed707b3cad0fa5b816c9c0776bdb5a307ab5907",
+          "sha1": "ae8ed0823ae73f17135138ba3b7c7a66ecc7a859",
+          "md5": "68bd97336e804ea59bf2d29f9ebe2fd9"
         }
       ]
     },
@@ -107,11 +107,11 @@
         {
           "name": "nova-core-edge-javadoc.jar",
           "url": "nova-core-edge-javadoc.jar",
-          "size": 175673,
-          "sha512": "eca5990b6498d55c877fc8433938b8da917b6b1c36abd617b200b0392abe7f999aa64bb0d280478f9d660d6ff2aae6c4ce8945768e762bb6cc1862cbea5482e2",
-          "sha256": "1e94ee71eaf6492a82e368212e53916b63bc373ff958d10e2c32dbedfb0c977a",
-          "sha1": "1755b0bdde3b0453b73fc3bd9325c567aaafd95f",
-          "md5": "b08db712201eda73509be076b25e7ef7"
+          "size": 175670,
+          "sha512": "7669b56bf4884d2db623f62110aa52377b7a3b36a11684b4fd252f82fcbf979c6ac30bc0d27d953417832d8225bab78300ff9ca916a720135f68514de107a93f",
+          "sha256": "e7c372ea73c9960549422488762992342b4bade269eac063a670f87da7c3b4aa",
+          "sha1": "52b0dd58a7406af55d018271d3242130469ac601",
+          "md5": "acff97d24ef49050a7848d68fe3eb1dd"
         }
       ]
     },
@@ -127,11 +127,11 @@
         {
           "name": "nova-core-edge-sources.jar",
           "url": "nova-core-edge-sources.jar",
-          "size": 17378,
-          "sha512": "a00dae218256d756c5a42e406858d4c21804cdb7623b7ad994a6766954260198ca0c914a20064cd6be2d7596619eaad39d661ad9b4b89a1584e00220318f0241",
-          "sha256": "1e1b421c1de1d8993ecaaeb57f65092de03a2a1dcd4ead35abeed048addd087a",
-          "sha1": "d02677e351f5c13080558697056fba5a0891bdf0",
-          "md5": "c8ab4d9ba700d0e1d6a2ea50566bce26"
+          "size": 17375,
+          "sha512": "48bf3d106fd4e7292366f98a82f205b05339bb56dbaee4f6591840477874b5caa64bdbe7bc2f7f671d1d5bce6074cd77edca8d71ae9331c5ade29327655050d4",
+          "sha256": "3df4be5380226f826b62fbe47f1927850bc44cb607725727af9f265735e2f4b4",
+          "sha1": "f92faf19313f58febe28fdb2b259b5396dd17cec",
+          "md5": "0c743314ac8f7f9ae73646b702971b97"
         }
       ]
     }
