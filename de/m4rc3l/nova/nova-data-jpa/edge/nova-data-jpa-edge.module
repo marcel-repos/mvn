@@ -36,11 +36,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 16141,
-          "sha512": "173e41fc0b7d498e9687816bc98b66dce456ff7f5c4eca5b7c6948dbcc9975e913fa80dc004b968272b76625911307a569c8fe8c8dfb99b6d82c3ad470d75449",
-          "sha256": "8f42e3bf80009958802509e34811e112705bac09117bdc7975c8eca38b6ed7cd",
-          "sha1": "e6ba18f24eaad1cc37ad4e840107de5b7f858440",
-          "md5": "56a49c43306a05adbb2b3423dd7fac14"
+          "size": 16208,
+          "sha512": "a0632ccfb2d47d26b874e28c4c9f3a5b761efc6d2a775e76a2c79ee629de161e0149334c16b294c00342584e355e50a2f71984ef77061b47443aca3b70ae162d",
+          "sha256": "010ae61fca2523a58100e63e3e4b36424d4360af5e5e77a28898aa0dfab0e3b1",
+          "sha1": "7231977575040a32a67be0180b436e4ebf1cf3d6",
+          "md5": "bd2622a9912fdc4c3addd5b01156cc48"
         }
       ]
     },
@@ -80,11 +80,11 @@
         {
           "name": "nova-data-jpa-edge.jar",
           "url": "nova-data-jpa-edge.jar",
-          "size": 16141,
-          "sha512": "173e41fc0b7d498e9687816bc98b66dce456ff7f5c4eca5b7c6948dbcc9975e913fa80dc004b968272b76625911307a569c8fe8c8dfb99b6d82c3ad470d75449",
-          "sha256": "8f42e3bf80009958802509e34811e112705bac09117bdc7975c8eca38b6ed7cd",
-          "sha1": "e6ba18f24eaad1cc37ad4e840107de5b7f858440",
-          "md5": "56a49c43306a05adbb2b3423dd7fac14"
+          "size": 16208,
+          "sha512": "a0632ccfb2d47d26b874e28c4c9f3a5b761efc6d2a775e76a2c79ee629de161e0149334c16b294c00342584e355e50a2f71984ef77061b47443aca3b70ae162d",
+          "sha256": "010ae61fca2523a58100e63e3e4b36424d4360af5e5e77a28898aa0dfab0e3b1",
+          "sha1": "7231977575040a32a67be0180b436e4ebf1cf3d6",
+          "md5": "bd2622a9912fdc4c3addd5b01156cc48"
         }
       ]
     },
@@ -100,11 +100,11 @@
         {
           "name": "nova-data-jpa-edge-javadoc.jar",
           "url": "nova-data-jpa-edge-javadoc.jar",
-          "size": 87850,
-          "sha512": "fddf949a91aaf817eedc9a7ddb737018a9b995f3c4ceb85f7a46f20fb7dccd75b8c15c6aa5d7872ddd8ae31a78235069786efa7cddc90ba44fc967f7e1f4e19b",
-          "sha256": "cdb47a17deac29a1a6bf218496ad9df46ad4e1d2daa24a42cfe3973908a04a23",
-          "sha1": "83efc026a7aae7542eccdfed5106ed31ae2a3984",
-          "md5": "47b025ad0698c84f6a72d602caa18ee8"
+          "size": 87849,
+          "sha512": "cd4f10a99eceef7f35898db26ff8a2d87c0079bf1d7c895c52b4c40ba098d6e80f88a0927b862e0d7f5950dd6767d1b9767641a2070ef75d2fb60a0d0b61cd95",
+          "sha256": "7eff8efacb0faad9417f5f29206d5096d01ae96f7cbccc24734ceb64375c8be9",
+          "sha1": "408780b12a99524bd98dc800c03e99ed86ea2400",
+          "md5": "0efce3b205e93a24c51836f9351fafdc"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "nova-data-jpa-edge-sources.jar",
           "url": "nova-data-jpa-edge-sources.jar",
-          "size": 3443,
-          "sha512": "f7d08793e297fd8ccbdd1847f40431e0758084173664c2e48c8187acaa570910b40736a9534233c83263eff746a8af4affc9005494f0e8be770c66e33966f2bc",
-          "sha256": "c62b0b23af0fec81362e0b86909fce3b3ac532e0b4f24c63823fdc49fdd755be",
-          "sha1": "9694d983f1283f398dca2b4a7c0a167ba15931d3",
-          "md5": "839d69dd0eb8a321357571dbca47a583"
+          "size": 3442,
+          "sha512": "d9702456e8452eb37c9536dcb574770d77905c4fdb77f2878921b6881d02b89289040c6c64a3bf34b99e4ac3eb09c934cc3f56db618e5c369561c4e2b1d2b0d7",
+          "sha256": "20b274fa71b4d82d8e1e29ef763b300c207b0a26117f85801f108edbd064ced1",
+          "sha1": "bbfc132974d97791e7f4ed6ff1f1d8bc89fad94d",
+          "md5": "09c502a87fc68de13af97a4a5aedd4d1"
         }
       ]
     }
