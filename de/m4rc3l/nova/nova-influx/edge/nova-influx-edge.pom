@@ -42,19 +42,19 @@
     <nebula_Built_By>runner</nebula_Built_By>
     <nebula_Built_OS>Linux</nebula_Built_OS>
     <nebula_Build_Timezone>Etc/UTC</nebula_Build_Timezone>
-    <nebula_Build_Date_UTC>2024-03-30T19:31:15.273297265Z</nebula_Build_Date_UTC>
-    <nebula_Build_Date>2024-03-30_19:31:15</nebula_Build_Date>
+    <nebula_Build_Date_UTC>2024-03-30T19:52:12.961850219Z</nebula_Build_Date_UTC>
+    <nebula_Build_Date>2024-03-30_19:52:12</nebula_Build_Date>
     <nebula_Gradle_Version>8.5</nebula_Gradle_Version>
     <nebula_Module_Source>/nova-influx</nebula_Module_Source>
     <nebula_Module_Origin>https://github.com/MarcelCoding/nova</nebula_Module_Origin>
-    <nebula_Change>224669c</nebula_Change>
-    <nebula_Full_Change>224669caee7e659d6e30cc9e66ca97a6a1b1ee28</nebula_Full_Change>
+    <nebula_Change>b2b48e4</nebula_Change>
+    <nebula_Full_Change>b2b48e46423fa1fd973aaf94f7a034b65d32eeef</nebula_Full_Change>
     <nebula_Branch>main</nebula_Branch>
     <nebula_Build_Host>https://github.com</nebula_Build_Host>
     <nebula_Build_Job>__run_2</nebula_Build_Job>
-    <nebula_Build_Number>531</nebula_Build_Number>
-    <nebula_Build_Id>8492928466</nebula_Build_Id>
-    <nebula_Build_Url>https://github.com/MarcelCoding/nova/actions/runs/8492928466</nebula_Build_Url>
+    <nebula_Build_Number>532</nebula_Build_Number>
+    <nebula_Build_Id>8493017317</nebula_Build_Id>
+    <nebula_Build_Url>https://github.com/MarcelCoding/nova/actions/runs/8493017317</nebula_Build_Url>
     <nebula_Created_By>17.0.10+7 (Eclipse Adoptium)</nebula_Created_By>
     <nebula_X_Compile_Target_JDK>17</nebula_X_Compile_Target_JDK>
     <nebula_X_Compile_Source_JDK>17</nebula_X_Compile_Source_JDK>
