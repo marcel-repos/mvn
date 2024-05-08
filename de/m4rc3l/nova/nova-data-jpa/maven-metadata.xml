@@ -3,8 +3,8 @@
   <groupId>de.m4rc3l.nova</groupId>
   <artifactId>nova-data-jpa</artifactId>
   <versioning>
-    <latest>4.0.1</latest>
-    <release>4.0.1</release>
+    <latest>edge</latest>
+    <release>edge</release>
     <versions>
       <version>edge</version>
       <version>3.0.0</version>
@@ -16,6 +16,6 @@
       <version>4.0.0</version>
       <version>4.0.1</version>
     </versions>
-    <lastUpdated>20240330195300</lastUpdated>
+    <lastUpdated>20240508234225</lastUpdated>
   </versioning>
 </metadata>

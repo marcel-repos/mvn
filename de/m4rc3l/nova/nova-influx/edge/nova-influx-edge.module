@@ -43,11 +43,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 45164,
-          "sha512": "876c30ce5ef122c588664b3d6312764942f8160b9900ac92ca025e411a36ef79291af21bf8f6fd672a8474b5f04726fc9e8de1bb0a9b6455f3704a54bad7a1bb",
-          "sha256": "330af9f3cbdb52fa6c93ba2a1389aeb895eb57968cce69784cc5f2dd580d9d94",
-          "sha1": "a225f0f779a3f4b404ce0ea785bd18f63693e4ba",
-          "md5": "5d029a45603e31e655303f335a159a10"
+          "size": 45167,
+          "sha512": "7834c5aa90282c5b7458596ab6f51e6eeaaacbd680585c4eea0dd28d15c3e44c64c86876ffd077c93e6192534fc5d4b30325bbd8d0d99d8f43a579a5006e2217",
+          "sha256": "63b8fced97d6319a052a6fcc2b0e6a0d89d1d0564920b806bc9ffc2d3a97986f",
+          "sha1": "d35f6c8aa41a7d57134d490dd038284aee6b2927",
+          "md5": "44a7a9eddf6a139c4dc00e7a475aaf3f"
         }
       ]
     },
@@ -87,11 +87,11 @@
         {
           "name": "nova-influx-edge.jar",
           "url": "nova-influx-edge.jar",
-          "size": 45164,
-          "sha512": "876c30ce5ef122c588664b3d6312764942f8160b9900ac92ca025e411a36ef79291af21bf8f6fd672a8474b5f04726fc9e8de1bb0a9b6455f3704a54bad7a1bb",
-          "sha256": "330af9f3cbdb52fa6c93ba2a1389aeb895eb57968cce69784cc5f2dd580d9d94",
-          "sha1": "a225f0f779a3f4b404ce0ea785bd18f63693e4ba",
-          "md5": "5d029a45603e31e655303f335a159a10"
+          "size": 45167,
+          "sha512": "7834c5aa90282c5b7458596ab6f51e6eeaaacbd680585c4eea0dd28d15c3e44c64c86876ffd077c93e6192534fc5d4b30325bbd8d0d99d8f43a579a5006e2217",
+          "sha256": "63b8fced97d6319a052a6fcc2b0e6a0d89d1d0564920b806bc9ffc2d3a97986f",
+          "sha1": "d35f6c8aa41a7d57134d490dd038284aee6b2927",
+          "md5": "44a7a9eddf6a139c4dc00e7a475aaf3f"
         }
       ]
     },
@@ -107,11 +107,11 @@
         {
           "name": "nova-influx-edge-javadoc.jar",
           "url": "nova-influx-edge-javadoc.jar",
-          "size": 141940,
-          "sha512": "8f0f9fadd3855a42f734facd6e5686cf99db64c86b27852bf47e60d46549c8474a9b1215c0f219559bd169747af0113749154406ae71ea26484373d2fca81f28",
-          "sha256": "92efce32e65358f4c1e9d83a4c5ec239b362eac8b30488cb333ba56eb815989d",
-          "sha1": "5174c71b5d87ea94e2871346b37c5a00dfc7ecc9",
-          "md5": "e6ed1ec3757ff2815354ffed5aac9d38"
+          "size": 141942,
+          "sha512": "8e1029a19017f3fd90d4797a2fb6c99a4064515b2e46c50fcd878407c046353119589603d69d0447cc07e5661ef20f00fbc3e8444e4a73a763e1574433906a17",
+          "sha256": "ec9958214076dada54f8dc526be113684ddecc5384ef9028315a4eece21b86d1",
+          "sha1": "14b32d6f704f993694d34fa55d12e8cb4b730281",
+          "md5": "c7c3ec59cb3a04303578c83d5b8ff0e2"
         }
       ]
     },
@@ -127,11 +127,11 @@
         {
           "name": "nova-influx-edge-sources.jar",
           "url": "nova-influx-edge-sources.jar",
-          "size": 9699,
-          "sha512": "d758a88b062255ef1f63b357ddf1b54d396c2877f3452d25612c284bf22df52cb9a4f41303f27455c1e283618432c34784e9a1961d00902b96a0087a0ecfb135",
-          "sha256": "9b15c62b5992b642297b83d3dc045788d4027e05aaf5734302c06b73a282e324",
-          "sha1": "2c7d9fd08b11470628fe5d89e77bf4b64497ad0d",
-          "md5": "e29793f6fe228c3a41f393587d3a5e45"
+          "size": 9701,
+          "sha512": "489c178320a7809ffecbb0ce0bf5574be5ae721ae00cae1b805c44f3ee0f748df30c9ccde58aab1574d2c3c6a070b28b8dfd42cc723f8f26472cde99aa9e5d5f",
+          "sha256": "4417e961ea1e9e067de48b7cc622d01afe648d2cd6267ece648eb7e6de85e0e3",
+          "sha1": "a3034e36ed0e7c205fd566349df3bf9f6bab73a6",
+          "md5": "4c21631471d56a6e9b5d8f706584020e"
         }
       ]
     }
